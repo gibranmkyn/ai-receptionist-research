@@ -1,63 +1,61 @@
 # Market Research: Virtual Receptionists in the US
 
-Churn analysis of the US virtual receptionist / answering service market. 409 reviews scraped from Reddit and Trustpilot, 154 churn stories dual-coded into 11 categories, packaged into product strategy recommendations.
+I was evaluating whether to enter the virtual receptionist market with an AI product. The existing research was either too surface-level (analyst one-pagers) or too expensive (commissioned studies). So I built my own.
 
-I did this as a Product Manager evaluating a market entry for an AI receptionist product. The research question was simple: **why do customers leave existing answering services, and what would make them switch?**
+I scraped 409 real customer reviews from Reddit and Trustpilot, isolated the 154 that described exactly why someone left their answering service, and coded them into a taxonomy of failure modes. The whole thing — collection, cleaning, classification, analysis, and final deliverables — was done by me as a solo PM using AI tools.
 
-Instead of surveys or analyst reports, I scraped real customer reviews and used Claude to classify and analyze them at scale.
+## The Problem I Was Trying to Solve
 
-## How I Did It
+Before building anything, I needed to know: **what actually breaks in answering services?** Not what competitors say in their marketing, not what industry reports summarize from surveys — what do customers say in their own words when they're angry enough to write a review or a Reddit post?
 
-### 1. Data Collection
-Two Reddit scrapers (live API + Arctic Shift archive) covered 20 subreddits across SMB verticals — law, dental, HVAC, real estate, MSPs, etc. Search queries were organized into churn buckets (billing, voice quality, call handling, switching) and blocker buckets (trust, not ready, tried and rejected).
+That's a qualitative research problem. Normally you'd hire a research agency or spend weeks reading reviews manually. I wanted to see if I could get the same rigor faster by using AI to do the heavy lifting.
 
-For Trustpilot, I scraped 11 company profiles and specifically targeted 1-2 star review pages for churn signal. The 9 competitors in the final analysis: Ruby Receptionist, Smith.ai, AnswerConnect, PATLive, Synthflow, Abby Connect, Dialzara, SAS, and Virtual HQ.
+## What I Built
 
-409 reviews total, spanning 2015–2026. Sample composition: 92% Trustpilot, 8% Reddit.
+### Data Collection
+I wrote two Reddit scrapers (live API and Arctic Shift archive) that searched 20 subreddits across SMB verticals — law firms, dental offices, HVAC companies, real estate, MSPs. Queries were split into churn buckets (billing complaints, voice quality issues, call handling failures, switching stories) and blocker buckets (trust concerns, "not ready yet", tried and rejected).
 
-### 2. Cleaning
-Three-pass pipeline before anything gets classified:
-1. **Hard filters** — drop deleted posts, text under 100 characters, Reddit posts with score < 2, and fuzzy duplicates (0.8 similarity threshold)
-2. **Domain relevance** — must mention an answering service/receptionist AND contain first-person experience markers ("I switched", "we cancelled", "cost us", etc.). Trustpilot reviews skip this check since they're inherently on-topic.
-3. **LLM classification** — Claude (Sonnet 4.5) reads each surviving quote and extracts: category, competitor mentioned, pain point summary, quality score (1–5), dollar amounts, and a presentation-ready flag
+For Trustpilot, I scraped 11 company profiles and specifically went after 1-2 star reviews — that's where the churn signal lives. Ended up with 409 reviews spanning 2015–2026 across 9 competitors: Ruby Receptionist, Smith.ai, AnswerConnect, PATLive, Synthflow, Abby Connect, Dialzara, SAS, and Virtual HQ. The sample is 92% Trustpilot, 8% Reddit.
 
-### 3. Dual Coding
-The 154 churn stories were the core sample. Two independent LLM coders classified each one against an 11-category taxonomy grouped into four themes:
+### Data Cleaning
+Raw scraped data is messy. I ran a three-pass pipeline:
+1. **Hard filters** — dropped deleted posts, anything under 100 characters, low-engagement Reddit posts (score < 2), and fuzzy duplicates (0.8 similarity threshold)
+2. **Relevance check** — must mention an answering service AND contain first-person experience language ("I switched", "we cancelled", "cost us"). Trustpilot reviews skip this since they're already on-topic.
+3. **AI classification** — Claude (Sonnet 4.5) read each quote and extracted structured fields: category, competitor, pain point, quality score (1–5), dollar amounts, and whether it's presentation-ready
 
-| Group | Categories |
+### Coding the Churn
+The 154 churn stories were the core dataset. I wanted categories that would translate directly into product decisions, not academic labels. So I named them in the customer's voice:
+
+| Group | What customers say |
 |---|---|
 | **Call Handling** | "They don't follow my instructions", "They don't know my business", "They get the details wrong", "Calls go to the wrong place" |
 | **Billing** | "Hidden charges on my bill", "I can't cancel", "Surprise charges I can't explain", "It costs too much" |
 | **Service Reliability** | "They don't pick up", "It used to be good, then got worse" |
 | **Industry Disillusionment** | "I've tried everyone, nobody works" |
 
-Disagreements were adjudicated manually. Inter-rater reliability: **Cohen's kappa = 0.91**.
+To make sure the categorization held up, I ran two independent AI coders against this taxonomy and adjudicated disagreements. Inter-rater reliability came back at **Cohen's kappa = 0.91** — near-perfect agreement. One caveat: both coders are AI, so they may share blind spots that human coders wouldn't.
 
-One limitation worth noting: both coders are AI, so they may share blind spots that two human coders wouldn't.
+### Weighting
+Not every review is equally useful. A 50-upvote Reddit post with a detailed switching story tells you more than a one-line Trustpilot rant. I weighted quotes by quality score (1–5) × log₂(upvotes) for Reddit, with a flat multiplier for Trustpilot where there's no engagement signal.
 
-### 4. Weighted Analysis
-Weight = quote quality (1–5) × engagement. For Reddit, engagement is log₂(upvotes) — so a 50-upvote post with a detailed switching story outweighs dozens of one-line Trustpilot reviews. Trustpilot reviews get a flat 1.0 engagement multiplier since there's no comparable signal.
+### Switching Analysis
+30 reviews described switching from one service to another. To figure out direction (did someone *leave* Ruby, or *arrive* at Ruby?), I built a four-step detector: departure phrase matching → arrival phrase matching → sentiment balance → keyword fallback.
 
-### 5. Switching Direction Detection
-For the 30 switching stories, I needed to figure out direction: did the reviewer leave Company X, or arrive at it? The script tries four strategies in order:
-1. **Departure phrases** — "left Ruby", "cancelled Smith.ai", "ditched AnswerConnect"
-2. **Arrival phrases** — "switched to PATLive", "went with Dialzara", "found Abby Connect"
-3. **Sentiment balance** — count positive vs negative words near the company name
-4. **Keyword fallback** — if all else ties, default to departure
+### Temporal Analysis
+I wanted to check whether Trustpilot ratings actually reflect customer experience. Split the reviews at mid-2024 and found that organic reviews averaged 1.2–3.8 stars. After July 2024, sudden waves of 5-star reviews appeared across multiple companies simultaneously. The service didn't change — the review strategy did.
 
-### 6. Temporal Analysis
-To test whether Trustpilot ratings are trustworthy, I split reviews at mid-2024 (July). Before that: organic reviews averaging 1.2–3.8 stars. After: sudden 5-star surges that doubled or tripled company scores. The cutoff is judgment-based, chosen by eyeballing where the pattern shifts.
+### Report Generation
+Everything downstream — charts, tables, the narrative report — is generated programmatically from the coded data. No hardcoded percentages. If the underlying dataset changes, the whole analysis rebuilds.
 
-### 7. Report Generation
-All charts, tables, and the narrative document are generated programmatically. Every percentage and ranking is computed from the coded data, not hardcoded. The 72% legal vertical figure comes with a caveat: Reddit churn data skews heavily toward r/LawFirm, so that number partly reflects where the data came from.
+The 72% legal vertical finding comes with a caveat I flagged in the report: Reddit churn data skews heavily toward r/LawFirm, so that number partly reflects where the data came from, not just where the market is.
 
-## Key Findings
+## What I Found
 
-- **76% of churn** is call handling (43%) + billing (33%) — both solvable by AI + flat-rate pricing
+- **76% of churn** is call handling (43%) + billing (33%) — both structurally solvable by AI + flat-rate pricing
 - **Ruby Receptionist** loses the most customers. **Smith.ai** over-indexes on billing complaints.
-- Organic Trustpilot ratings average **1.2–3.8 stars**. The high composite scores are inflated by mid-2024 5-star review surges.
-- AI-native competitors (Synthflow) fix script adherence but introduce billing and reliability churn
-- **72% legal vertical** — natural beachhead market (with the Reddit caveat above)
+- Organic Trustpilot ratings average **1.2–3.8 stars** before the mid-2024 review surges inflated them
+- AI-native competitors (Synthflow) fix script adherence but introduce new billing and reliability churn
+- **72% legal vertical** — natural beachhead market (with the data source caveat above)
 
 ## Outputs
 
@@ -68,7 +66,7 @@ All charts, tables, and the narrative document are generated programmatically. E
 | [`churn_quotes_categorized.md`](churn_quotes_categorized.md) | All 154 churn quotes by category |
 | [`methodology.md`](methodology.md) | Methodology and data quality notes |
 
-## Folder Structure
+## Repo Structure
 
 ```
 .
