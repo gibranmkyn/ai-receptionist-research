@@ -53,11 +53,33 @@ The 72% legal vertical finding comes with a caveat I flagged in the report: Redd
 
 ## What I Found
 
-- **76% of churn** is call handling (43%) + billing (33%) — both structurally solvable by AI + flat-rate pricing
-- **Ruby Receptionist** loses the most customers. **Smith.ai** over-indexes on billing complaints.
-- Organic Trustpilot ratings average **1.2–3.8 stars** before the mid-2024 review surges inflated them
-- AI-native competitors (Synthflow) fix script adherence but introduce new billing and reliability churn
-- **72% legal vertical** — natural beachhead market (with the data source caveat above)
+![Where churn concentrates](data/charts/group_pareto.png)
+
+- **76% of churn is call handling (43%) + billing (33%).** These aren't random complaints — they're structural failures baked into the human-pool answering service model. Agents can't follow scripts consistently because they're juggling dozens of clients. Billing is per-minute because that's how the economics work. An AI product solves both by design: AI *is* the script, and flat-rate pricing eliminates the billing model that generates most complaints.
+
+- **Ruby Receptionist is the most vulnerable competitor.** Worst net customer flow of any company in the dataset. Their churners over-index on call handling failures. The go-to-market message for Ruby customers is straightforward: "your calls will be handled right, every time."
+
+- **Smith.ai is vulnerable for a different reason.** Their churn over-indexes on billing — predatory charges, impossible cancellation, opaque pricing. The message for Smith.ai customers is different: "transparent billing, cancel anytime."
+
+- **The ratings are fake.** Organic Trustpilot reviews averaged 1.2–3.8 stars before mid-2024. Then sudden 5-star surges appeared across multiple companies. The service didn't improve — the review strategy changed. This means incumbents are weaker than they look.
+
+- **AI-native competitors (Synthflow) prove the concept but can't execute.** Zero script adherence complaints (AI fixes that by design), but 47% billing churn and 35% reliability churn. They solved the call problem and broke everything else. The window where AI-native entrants have broken platforms is temporary — they're well-funded and will fix execution.
+
+- **72% legal vertical** — lawyers are the natural beachhead market (with the caveat that Reddit data skews toward r/LawFirm).
+
+![Where customers go when they leave](data/charts/switching_sankey.png)
+
+## What I'd Recommend
+
+The research translated into three specific recommendations in the strategy deck:
+
+1. **Build script adherence + flat-rate pricing first.** These two features address 76% of churn. Configurable call scripts with branching logic (P0) and flat monthly billing with no per-minute charges (P0) are the minimum viable product.
+
+2. **Target Ruby and Smith.ai churners with different messages.** Ruby customers need to hear "your calls handled right." Smith.ai customers need "transparent billing, cancel anytime." One-size-fits-all positioning won't work — the churn profiles are too different.
+
+3. **Price at $99–199/mo flat rate.** Undercuts legacy pricing ($235–$2,800/mo) by 50–90%, while sitting above AI-native competitors ($29–$99/mo) who haven't earned trust yet. The data shows customers don't leave because of price — they leave because of billing *model*. Flat rate solves that.
+
+The full strategy deck and deep dive report have the supporting detail — competitor-by-competitor vulnerability profiles, switching flow analysis, priority matrix for feature decisions, and GTM messaging by channel.
 
 ## Outputs
 
