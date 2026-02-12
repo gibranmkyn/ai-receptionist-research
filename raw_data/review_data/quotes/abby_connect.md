@@ -1,0 +1,244 @@
+# Abby Connect — All Reviews
+
+**Total reviews:** 20  
+**Source:** Trustpilot  
+**Collected:** 2026-02-11
+
+### Rating Distribution
+
+★★★★★ | 17 █████████████████
+
+★★★★☆ | 0 
+
+★★★☆☆ | 0 
+
+★★☆☆☆ | 0 
+
+★☆☆☆☆ | 3 ███
+
+---
+
+### 1. 2026-02-04 | ★★★★★
+
+**"Two thumbs up | We've been through 5 or 6 call answering services and Abby is the best!"**
+
+> We have been through 5 or 6 call answering services over the years, and Abby Connect has been the best by a long shot. I appreciate that they are quick to respond and they've been willing to explore complex technical configurations with me. I've really appreciated our working relationship and highly recommend them to any business looking for high quality phone answering services. Special shout outs to Kat Currah and Priscilla Loza on the Abby Connect team! :-)
+
+*— Brandon* | [Trustpilot](https://www.trustpilot.com/reviews/6983804ec98c01629efa9e0e)
+
+---
+
+### 2. 2025-12-23 | ★★★★★
+
+**"Reliable Live Answering with Proactive Client Support"**
+
+> We’ve had a great experience with Abby Connect. Their live receptionists are professional, reliable, and make a strong first impression with our clients. A big part of our success has been our dedicated Client Success Manager, Priscilla L., who is responsive and proactive about quality control. Whenever an issue comes up, she helps identify it quickly and works with us to fine-tune the service so our customer experience keeps improving. Highly recommend.
+
+*— THE LAW OFFICES OF SHAWN B HAMP PC * | [Trustpilot](https://www.trustpilot.com/reviews/694ab6d5746ffe7df9c54588)
+
+---
+
+### 3. 2025-12-08 | ★★★★★
+
+**"Priscilla from Abby Connect did a great…"**
+
+> Priscilla from Abby Connect did a great job updating our call handling when a staff member left. She quickly assessed prior data and presented a solution to the problem.
+
+*— Jennifer* | [Trustpilot](https://www.trustpilot.com/reviews/6935fae41ad3150381e02fa3)
+
+---
+
+### 4. 2025-12-04 | ★★★★★
+
+**"Priscilla Loza was very helpful and…"**
+
+> Priscilla Loza was very helpful and very attentive.
+
+*— Lori* | [Trustpilot](https://www.trustpilot.com/reviews/6930c040d04b5a747338c229)
+
+---
+
+### 5. 2025-11-15 | ★★★★★
+
+**"The firm I work for uses Abby Connect…"**
+
+> The firm I work for uses Abby Connect for our overflow and after hours calls.  From the very beginning they have been great to work with.  My Sr CSM Angelica (Angie) Monterossa is wonderful.  She is professional, kind and quick to respond.  I value the supportive relationship that we have and would highly recommend them!
+
+*— Rebecca* | [Trustpilot](https://www.trustpilot.com/reviews/6917a9f7694fd1333e88610a)
+
+---
+
+### 6. 2025-11-14 | ★★★★★
+
+**"Working with Angelica has been great"**
+
+> Working with Angelica has been great. She has been on point since she took over our account. Great communication and always there to help when we need it. Thank you so much Angie!!
+
+*— Zane Fetter* | [Trustpilot](https://www.trustpilot.com/reviews/69177c6541348b0cbf606392)
+
+---
+
+### 7. 2025-11-12 | ★★★★★
+
+**"Great Customer Service"**
+
+> Great company. We've worked with Abby Connect for years now and anytime we've ever needed any help, they have been incredibly responsive and friendly. Just today I was having some trouble viewing our account settings and Priscilla was able to quickly help me out with portal access. Great customer service.
+
+*— Grace* | [Trustpilot](https://www.trustpilot.com/reviews/6914fc70321317b9985c3995)
+
+---
+
+### 8. 2025-11-07 | ★★★★★
+
+**"Abby Connect has been a game change"**
+
+> Abby Connect has been a game changer for our granite countertop business.
+
+Their team handles every call professionally and makes sure we never miss an opportunity.
+
+Priscilla Loza, our Client Success Manager, has been outstanding to work with. She's always quick to respond, helpful with any questions, and genuinely cares about making sure the service works seamlessly for our business.
+
+I highly recommend Abby Connect. They've earned our trust, and we're grateful for the peace of mind they provide.
+
+*— Alberto Martinez* | [Trustpilot](https://www.trustpilot.com/reviews/690d1e8b2db359c5a1ffa167)
+
+---
+
+### 9. 2025-11-05 | ★★★★★
+
+**"Helpful, Reliable and Professional"**
+
+> Abby Connect has been an amazing addition to our business.  We first started using Abby during the Covid pandemic when our own staff was stressed, overworked and needed some help with the volume of phone calls we were receiving.  The Abby team quickly learned the unique needs of our business and five years later we are still happy with their service.  Our business receives calls 24/7, and even in the middle of the night the receptionists are kind and helpful.
+Over the past several months Pricilla has been the one to answer almost every email I have sent, responding within a short time with concise information and confirmations of our changes.
+I would recommend Abby to anyone who wants to take some of the load off of their administrative team.
+
+Sincerely,
+Tori Allen
+Operations Manager
+Frye Chapel Mortuary & Crematory
+
+*— Tori Allen* | [Trustpilot](https://www.trustpilot.com/reviews/690a9e287e6b008eedc2b28d)
+
+---
+
+### 10. 2025-10-13 | ★★★★★
+
+**"Highly Recommend"**
+
+> We've used Abby Connect for about 3 years now and have ZERO complaints! Priscilla Loza, Angelica Monterrosa and the rest of the team over there have been amazing. 10 out of 10 recommend.
+
+*— Trilogy Fertilization & Weed C* | [Trustpilot](https://www.trustpilot.com/reviews/68d2cad598dc3047295103bd)
+
+---
+
+### 11. 2025-09-29 | ★★★★★
+
+**"Excellent support"**
+
+> We have been using Abby for about a month, and the quality of the AI receptionist is very good. It took us some time to populate the Q&A for the AI training, but the Abby team stepped up and helped us get everything in place. After starting they have also been very responsive in helping fine tune and solve minor problems.
+
+*— Sergio Ruffolo* | [Trustpilot](https://www.trustpilot.com/reviews/68dad7a659a1caef02a07f7b)
+
+---
+
+### 12. 2025-09-05 | ★★★★★
+
+**"We have had Abby for a long time now"**
+
+> We have had Abby for a long time now. They help so much to sort our incoming calls. They are attentive and respond to our questions and concerns quickly. Every once in a while they may not get the name of the client that is calling correct, but it is nothing that we cant quickly figure out. Mostly they do a great job answering clients and transferring them to where they need to go byt asking the correct questions.
+
+*— Heather Gehl* | [Trustpilot](https://www.trustpilot.com/reviews/68bad5ed8d17e1aa83dfb5a9)
+
+---
+
+### 13. 2025-04-15 | ★★★★★
+
+**"I have been with Abby for over 3 years"**
+
+> I have been with Abby for over 3 years. They have provided a first-class and professional image for many customers. If there is ever an issue, Angie is always responsive and helpful! I absolutely love this service!
+
+*— Annie Bailey* | [Trustpilot](https://www.trustpilot.com/reviews/67fec459cd1107c0ff3e75ef)
+
+---
+
+### 14. 2025-03-31 | ★☆☆☆☆
+
+**"What a terrible experience."**
+
+> What a terrible experience.
+
+1. They billed us for spam calls
+2. They billed us for time where the phone is ringing
+3. They tried to charge us $300/month to use Google Calendar instead of Calendly
+4. They were scheduling appointments with customers in different timezones.
+5. They were scheduling appointments with customers for roof estimates without even getting the customers' home address
+6. They would put customers on hold for minutes at a time to "talk to the team" but never contact anyone from the team. Super weird
+7. The initial sales representative from Abby quoted us something, but during onboarding kept trying to upsell us.
+8. They charged us for overage charges when 70% of the minutes were spent on spam calls and the phone ringing. 
+
+This company is abhorrent. I would avoid it like the plague.
+
+*— William Ipsan* | [Trustpilot](https://www.trustpilot.com/reviews/67eaa965098cd8cf207f47bb)
+
+---
+
+### 15. 2024-06-16 | ★☆☆☆☆
+
+**"Unethical company keeps fraudulently…"**
+
+> Unethical company keeps fraudulently charging my credit card after I have requested to cancel multiple times. They refunded the last charge and then I got billed again today. My rep is Katherine Currah and she seems to think that she has the right to not cancel my account just because the thinks she is entitled to try to talk me into staying with the company before she cancels my account. I logged into my account today and my account is still active after canceling two months ago and after having the last charge refunded and telling them to cancel my account multiple times. This is the law straw. I am filing complaints with the BBB, Trust Pilot and the FTC. I am also filing a police reporting, reporting the fraud to the attorney general as well as filing a formal complaint on Katherine Curran with the company. I DO NOT RECOMMEND WORKING WITH THIS UNETHICAL, CRIMINAL COMPANY THAT FRAUDULENTLY CHARGES YOUR CREDIT CARD.
+
+*— Fred* | [Trustpilot](https://www.trustpilot.com/reviews/666e3c4306a1aeff329e3581)
+
+---
+
+### 16. 2024-03-09 | ★★★★★
+
+**"I can’t express how happy I am with…"**
+
+> I can’t express how happy I am with their team. From Angelica my account manager to the receptionists they are nothing but professional. Always helping me increase my conversions. I’ve tried 3 other services and they are by far the best.
+
+*— Chip Holmes* | [Trustpilot](https://www.trustpilot.com/reviews/65ebd14a30a92cf27661f203)
+
+---
+
+### 17. 2024-02-29 | ★★★★★
+
+**"Abby always strives to do what is best…"**
+
+> Abby always strives to do what is best for the client and their clients.  The communication line to Abby's management team is very fluid, and changes are met with enthusiasm.  They are quite accurate in directing the caller to the correct contact who can help.
+
+*— James Simpson* | [Trustpilot](https://www.trustpilot.com/reviews/65e08384a5b14a50bce4daa5)
+
+---
+
+### 18. 2024-02-28 | ★★★★★
+
+**"Abby Connect helps us provide excellent customer service to our clients!"**
+
+> Our company has been utilizing an answering service since 2010 which has transformed the way we do business. I am SO happy to have found Abby Connect. They are hands down the best answering service I have ever worked with. My account manager Angie is always there to update any last minute changes whether it be for holiday hours or unexpected staff absences. She always gets back to me in a timely manner and makes sure all of our calls are answered professionally. Many of our clients are shocked to find out they even spoke to an answering service because of how well they answer our clients calls and questions. We couldn't imagine doing business without their assistance. They are truly part of our team and help us provide great service to our clients.
+
+*— Sounds Incredible Mobile* | [Trustpilot](https://www.trustpilot.com/reviews/65df77bfc63e26a5b064e7de)
+
+---
+
+### 19. 2024-02-26 | ★★★★★
+
+**"Abby has been great"**
+
+> I have been using Abby for over a year now to handle all of my appointment scheduling.  I tried other companies first, and Abby has made it the easiest.  Their call centers are in Las Vegas, so there is no language issue when they handle your calls.  My CSM on my account, Jovan, has been the literal best.
+
+*— Chelsea Woodworth* | [Trustpilot](https://www.trustpilot.com/reviews/65dcd2ef592bf6c08036601f)
+
+---
+
+### 20. 2021-11-03 | ★☆☆☆☆
+
+**"Excessively Expensive"**
+
+> I tried signing up for a free account but decided to go with another company. I told the rep at Abby Connect this yet they still spammed my phone and email constantly. I am responded to one of their emails to stop harassing me yet...they still responded later that day trying to get me to sign up. Wow! AnswerConnect and LexReception are a 1/3 of the price and do a phenomenal job.
+
+*— Jeremy* | [Trustpilot](https://www.trustpilot.com/reviews/6182fd4475069a4da49883f8)
+
+---
+

@@ -1,0 +1,882 @@
+[
+  {
+    "idx": 176,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Long-term Ruby Receptionist user appreciates personable, non-corporate culture of the staff",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 177,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Customer nearing usage limits received proactive account review and plan optimization advice",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 178,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "New Ruby customer receiving compliments on operator professionalism from their own clients",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 179,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Business owner needed help understanding minute usage and right plan; appreciated proactive follow-up on billing",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 180,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Customer received proactive cost-saving suggestions to reduce their plan spend",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 181,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 182,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 183,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Business in a unique industry needs customized intake call handling with different routing for different service types; Ruby willing to brainstorm complex solutions competitors would not",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 184,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Business needs professional call handling when office staff is unavailable to answer phones",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 185,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 186,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 187,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 188,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "New business with limited staff needs professional client experience without dedicating someone to a reception desk",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 189,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Business overwhelmed by unproductive calls that waste time; answering service filters them out",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 190,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Small law firm needs clients to always reach a live person for scheduling; answering service provides coverage so support staff can take time off",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 191,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Law firm switched from a cheaper call center that was costing them valuable potential cases; Ruby's higher quality justified the price difference",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 192,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 193,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Attorney moved practice home, gave up in-person receptionist, and relies entirely on virtual receptionist service for client contact and new client intake",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 194,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Business values call routing, message taking, and robocall filtering; acknowledges learning curve in setup",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 195,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Small law firm attorneys were personally fielding all cold calls on the main line while looking for a new admin; answering service freed up professional time by filtering spam, marketing, and robocalls",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 196,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 197,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Answering service helps connect to potential clients faster",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 198,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Business needs to ensure no missed calls from existing clients, partners, or new prospects",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 199,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "New business owner with many uncertainties finds comfort in having answering service handle calls",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 200,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "First-time answering service user was completely lost about the process but appreciated guided onboarding",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 201,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 202,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 203,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 204,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 205,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 206,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 207,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Previous call center constantly said 'we can't do that'; PATLive offered customization for call handling including scheduling, forwarding, spam marking, and CRM lead entry",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 208,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Answering service handles rude and disrespectful callers more professionally than the business owner would",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 209,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 210,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Returning customer re-enrolled; mentions both automated and live phone-answering options",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 211,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 212,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 213,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Prospect chose PATLive over competitors solely based on sales experience quality; had two competitor calls scheduled but cancelled them",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 214,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 215,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Law firm needed 24/7 availability for potential clients plus holiday and offsite training coverage; digital marketing agency referred them to answering service",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 216,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Switched from a different answering service they were completely unsatisfied with; values Jobber software integration and ability to take downtime while knowing customers are handled",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 217,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Service is legendary in the real estate investing industry",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 218,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Tried 4 other virtual receptionist companies before finding one with professional support that doesn't waste minutes taking too long on calls",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 219,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 220,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Needed multiple script adjustments during onboarding to meet specific business needs",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 221,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 222,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Appreciates fair pricing and fair cancellation conditions",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 223,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 224,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 225,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Business owner doesn't want to worry about the phone; values CRM integration for tracking calls and data, plus spam/hate call filtering",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 226,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Neuropathy practice needed someone who understood their specific medical space to customize call handling",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 227,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Initial phone number had spam/hang-up call issues that needed troubleshooting",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 228,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 229,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 230,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 231,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Had such a bad experience with SAS during free trial that they switched to PATLive; PATLive was more expensive but SAS would have cost more due to poor quality of service",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 232,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 233,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Switched from another call answering service; PATLive is more flexible and accommodating in terms of call handling scenarios",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 234,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 235,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Views virtual receptionist service as a viable alternative to an in-person receptionist",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 236,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 237,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Needed to free employees from answering phones; valued custom script suggestions based on business-specific call handling needs",
+    "user_type": "employee",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 238,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 239,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 240,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Had a billing concern that needed correction; appreciated responsive resolution",
+    "user_type": "employee",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 241,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 242,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Property management company handles 25,000+ work orders per year across 40+ properties 24/7; answering service integrates with their work order system and on-call emergency system, reducing unit damages",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 243,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Went through 5 or 6 call answering services before finding the right one; values willingness to explore complex technical configurations",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 244,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Law firm values proactive quality control from account manager who identifies issues and fine-tunes service to improve customer experience",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 245,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Needed call handling updated quickly when a staff member left the firm",
+    "user_type": "employee",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 246,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Law firm uses answering service for overflow and after-hours calls",
+    "user_type": "employee",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 247,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 248,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 249,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Granite countertop business needs to never miss a call opportunity; values peace of mind from professional call handling",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 250,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Started using answering service during COVID when staff was stressed and overworked; 24/7 call coverage including middle-of-the-night for a mortuary business; still using 5 years later",
+    "user_type": "employee",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 251,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 252,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist quality is good but required significant upfront work to populate Q&A for AI training; team helped fine-tune after launch",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 253,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Answering service occasionally gets caller names wrong but otherwise does a great job sorting incoming calls and routing to correct contacts",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 254,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Professional image for customers over 3+ years of service",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 255,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Tried 3 other answering services before finding one that helps increase conversions",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 256,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Values accurate call routing to the correct contact who can help the caller",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 257,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service since 2010 transformed their business; clients are shocked to learn they spoke to an answering service; handles holiday hours and unexpected staff absences",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 258,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Tried other companies first; chose Abby because US-based call center (Las Vegas) eliminates language issues; uses them for all appointment scheduling",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 259,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Virtual assistant service for after-hours customer service coverage, not receptionist-specific",
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 260,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 261,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 262,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 263,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  }
+]

@@ -1,0 +1,777 @@
+{
+  "coder": "A",
+  "level": "k9",
+  "total": 154,
+  "classifications": [
+    {
+      "idx": 0,
+      "category": "INAUTHENTICITY",
+      "reason": "Clients grumpy meeting answering service, never same receptionist"
+    },
+    {
+      "idx": 1,
+      "category": "INAUTHENTICITY",
+      "reason": "People can tell difference, conversions better with in-house"
+    },
+    {
+      "idx": 2,
+      "category": "INAUTHENTICITY",
+      "reason": "Multiple client complaints about call quality experience"
+    },
+    {
+      "idx": 3,
+      "category": "BILLING_TOO_EXPENSIVE",
+      "reason": "Became more expensive, switched to cheaper per-minute service"
+    },
+    {
+      "idx": 4,
+      "category": "BILLING_TOO_EXPENSIVE",
+      "reason": "Cancelled because call volume too low to justify cost"
+    },
+    {
+      "idx": 5,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Switched from different answering service, compares favorably"
+    },
+    {
+      "idx": 6,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Quality depends on which rep you get, inconsistent"
+    },
+    {
+      "idx": 7,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Met several AI providers, entered multiple contracts before finding one"
+    },
+    {
+      "idx": 8,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Tried multiple AI agent receptionists, all failed except one"
+    },
+    {
+      "idx": 9,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Switched from voicemail system to Ruby, improved experience"
+    },
+    {
+      "idx": 10,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Previous call center lost cases, switched to Ruby"
+    },
+    {
+      "idx": 11,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Old service said we cant do that, new one customizes calls"
+    },
+    {
+      "idx": 12,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Had different answering service before, unsatisfied, switched"
+    },
+    {
+      "idx": 13,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Tried four other virtual receptionist companies before finding fit"
+    },
+    {
+      "idx": 14,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Tried SAS, bad experience during trial, switched to PATLive"
+    },
+    {
+      "idx": 15,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Switched from another call answering service to PatLive"
+    },
+    {
+      "idx": 16,
+      "category": "BILLING_OPAQUE",
+      "reason": "Had billing concern that needed correction"
+    },
+    {
+      "idx": 17,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Been through five or six call answering services over years"
+    },
+    {
+      "idx": 18,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Tried three other services before finding best one"
+    },
+    {
+      "idx": 19,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Tried other companies first before settling on Abby"
+    },
+    {
+      "idx": 20,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Used a few services, not happy, seeking recommendations"
+    },
+    {
+      "idx": 21,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Switched to Smith AI from previous arrangement, never looked back"
+    },
+    {
+      "idx": 22,
+      "category": "QUALITY_DECAY",
+      "reason": "Fantastic for eight years, quality declined significantly last year"
+    },
+    {
+      "idx": 23,
+      "category": "INAUTHENTICITY",
+      "reason": "Random uninvested people answering, not part of firm"
+    },
+    {
+      "idx": 24,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Service does not follow script, ceiling on capability"
+    },
+    {
+      "idx": 25,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Receptionists do not read directions, annoying to remind"
+    },
+    {
+      "idx": 26,
+      "category": "QUALITY_DECAY",
+      "reason": "Used very long time, service never above three stars"
+    },
+    {
+      "idx": 27,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Same requests ignored, done wrong, then wrong again repeatedly"
+    },
+    {
+      "idx": 28,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Receptionists did not listen, scheduled wrong time zone repeatedly"
+    },
+    {
+      "idx": 29,
+      "category": "INAUTHENTICITY",
+      "reason": "Agents sound mechanized, giveaway its an answering service"
+    },
+    {
+      "idx": 30,
+      "category": "BILLING_OPAQUE",
+      "reason": "Charged overage fees, cannot access minute usage information"
+    },
+    {
+      "idx": 31,
+      "category": "INAUTHENTICITY",
+      "reason": "Robots reading from screen, dont understand the business"
+    },
+    {
+      "idx": 32,
+      "category": "MISSED_CALLS",
+      "reason": "Message delayed, customer already signed with competitor"
+    },
+    {
+      "idx": 33,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Agent just takes message instead of answering basic FAQs"
+    },
+    {
+      "idx": 34,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Personnel turnover causes unavoidable inconsistency issues"
+    },
+    {
+      "idx": 35,
+      "category": "INAUTHENTICITY",
+      "reason": "Agents cant access basic info like prices, location, name"
+    },
+    {
+      "idx": 36,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Rep asked wrong question instead of routing to named person"
+    },
+    {
+      "idx": 37,
+      "category": "GARBLED_INFO",
+      "reason": "Operators get name, gender, and practice name wrong"
+    },
+    {
+      "idx": 38,
+      "category": "ROUTING_ERRORS",
+      "reason": "Called wrong tech, didnt check on-call schedule"
+    },
+    {
+      "idx": 39,
+      "category": "INAUTHENTICITY",
+      "reason": "Cant pronounce business name, callers not satisfied"
+    },
+    {
+      "idx": 40,
+      "category": "GARBLED_INFO",
+      "reason": "Incorrect names and phone numbers, forgot to ask questions"
+    },
+    {
+      "idx": 41,
+      "category": "ROUTING_ERRORS",
+      "reason": "Calls sent to wrong agent, not person on call"
+    },
+    {
+      "idx": 42,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "No dedicated reps, endless cycle of retraining and monitoring"
+    },
+    {
+      "idx": 43,
+      "category": "GARBLED_INFO",
+      "reason": "Phone number address email all wrong, names misspelled routinely"
+    },
+    {
+      "idx": 44,
+      "category": "INAUTHENTICITY",
+      "reason": "Cant answer basic questions like do you have a website"
+    },
+    {
+      "idx": 45,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Many receptionists cause errors on specific call handling instructions"
+    },
+    {
+      "idx": 46,
+      "category": "BILLING_OPAQUE",
+      "reason": "Unclear why forwarded-to-voicemail calls take seven minutes"
+    },
+    {
+      "idx": 47,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Inconsistent following of instructions, sometimes skip steps"
+    },
+    {
+      "idx": 48,
+      "category": "QUALITY_DECAY",
+      "reason": "Service not what it used to be, considering price not worth it"
+    },
+    {
+      "idx": 49,
+      "category": "GARBLED_INFO",
+      "reason": "Incorrect name used, messages dont capture requested information"
+    },
+    {
+      "idx": 50,
+      "category": "ROUTING_ERRORS",
+      "reason": "Not dispatching calls to correct guys, lost jobs and money"
+    },
+    {
+      "idx": 51,
+      "category": "BILLING_PREDATORY",
+      "reason": "Charged for solicitation calls that should not occur"
+    },
+    {
+      "idx": 52,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Some days spot on, others like they didnt read the script"
+    },
+    {
+      "idx": 53,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Cannot differentiate sales call from business vendor"
+    },
+    {
+      "idx": 54,
+      "category": "BILLING_PREDATORY",
+      "reason": "Charged for calls to prior business recycled number"
+    },
+    {
+      "idx": 55,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Receptionists not following instructions about calls to put through"
+    },
+    {
+      "idx": 56,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Call instructions not followed, same-name mixup continues"
+    },
+    {
+      "idx": 57,
+      "category": "INAUTHENTICITY",
+      "reason": "Patients report it seemed like they didnt know what they were doing"
+    },
+    {
+      "idx": 58,
+      "category": "BILLING_OPAQUE",
+      "reason": "Billing seems questionable, also found message errors"
+    },
+    {
+      "idx": 59,
+      "category": "BILLING_OPAQUE",
+      "reason": "Called three times spending two hours on incorrect billing"
+    },
+    {
+      "idx": 60,
+      "category": "GARBLED_INFO",
+      "reason": "Misspelled names emails addresses, bill 7-10x expected"
+    },
+    {
+      "idx": 61,
+      "category": "MISSED_CALLS",
+      "reason": "Lots of times no one answers the phone"
+    },
+    {
+      "idx": 62,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Some dont follow script, repeated corrections dont help"
+    },
+    {
+      "idx": 63,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Limited training on each client, newest reps stumble badly"
+    },
+    {
+      "idx": 64,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Issues with operators following the script"
+    },
+    {
+      "idx": 65,
+      "category": "GARBLED_INFO",
+      "reason": "Operators leave incomplete or inaccurate information"
+    },
+    {
+      "idx": 66,
+      "category": "BILLING_OPAQUE",
+      "reason": "Surprise per-minute charges doubled monthly bill immediately"
+    },
+    {
+      "idx": 67,
+      "category": "BILLING_TOO_EXPENSIVE",
+      "reason": "Happy with service but cancelled because too expensive"
+    },
+    {
+      "idx": 68,
+      "category": "GARBLED_INFO",
+      "reason": "Things get lost, same receptionists handle hundreds of businesses"
+    },
+    {
+      "idx": 69,
+      "category": "BILLING_OPAQUE",
+      "reason": "Billing and support terrible, constant mess with multiple accounts"
+    },
+    {
+      "idx": 70,
+      "category": "BILLING_PREDATORY",
+      "reason": "Purposely waste money on solicitation calls, inflate bills"
+    },
+    {
+      "idx": 71,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "System erased script, messages taken like answering machine"
+    },
+    {
+      "idx": 72,
+      "category": "GARBLED_INFO",
+      "reason": "Terrible at getting required information or getting it accurate"
+    },
+    {
+      "idx": 73,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Reps cant follow simple website instructions to place orders"
+    },
+    {
+      "idx": 74,
+      "category": "GARBLED_INFO",
+      "reason": "Constant mistakes on emails names details and forms"
+    },
+    {
+      "idx": 75,
+      "category": "QUALITY_DECAY",
+      "reason": "Once solid and personalized service, now rote and embarrassing"
+    },
+    {
+      "idx": 76,
+      "category": "BILLING_OPAQUE",
+      "reason": "Dont understand pricing, extra charges ad hoc feels like gouging"
+    },
+    {
+      "idx": 77,
+      "category": "BILLING_OPAQUE",
+      "reason": "Way overcharged after company name change, autocharge without OK"
+    },
+    {
+      "idx": 78,
+      "category": "ROUTING_ERRORS",
+      "reason": "Calls going all over, sometimes to voicemail without ringing"
+    },
+    {
+      "idx": 79,
+      "category": "GARBLED_INFO",
+      "reason": "Basic info collected not always accurately, must reinput"
+    },
+    {
+      "idx": 80,
+      "category": "MISSED_CALLS",
+      "reason": "No consistency in live answering the phone"
+    },
+    {
+      "idx": 81,
+      "category": "MISSED_CALLS",
+      "reason": "Long hold times cause hangups, charged for it anyway"
+    },
+    {
+      "idx": 82,
+      "category": "INAUTHENTICITY",
+      "reason": "Receptionist didnt give impression she worked at office"
+    },
+    {
+      "idx": 83,
+      "category": "GARBLED_INFO",
+      "reason": "Incorrect info given, messages missing discussed information"
+    },
+    {
+      "idx": 84,
+      "category": "BILLING_PREDATORY",
+      "reason": "Paying for hangup and robot calls, IVR fix doesnt work"
+    },
+    {
+      "idx": 85,
+      "category": "QUALITY_DECAY",
+      "reason": "Initially good, service gone down terribly, patients complain rude"
+    },
+    {
+      "idx": 86,
+      "category": "QUALITY_DECAY",
+      "reason": "With company for years, still not handling calls as wanted"
+    },
+    {
+      "idx": 87,
+      "category": "MISSED_CALLS",
+      "reason": "Phone rang ten or more times before answer"
+    },
+    {
+      "idx": 88,
+      "category": "BILLING_TRAP",
+      "reason": "Cannot cancel, must email, transfers calls to raise bill"
+    },
+    {
+      "idx": 89,
+      "category": "BILLING_PREDATORY",
+      "reason": "Upsold to wrong plan, overpaid 700/month for five months"
+    },
+    {
+      "idx": 90,
+      "category": "BILLING_TRAP",
+      "reason": "Charged five months after cancelling trial period"
+    },
+    {
+      "idx": 91,
+      "category": "BILLING_OPAQUE",
+      "reason": "Paid for months of unused service during failed setup"
+    },
+    {
+      "idx": 92,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Receptionists deny work, claim to book but never do"
+    },
+    {
+      "idx": 93,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Incoming calls incorrectly marked as spam repeatedly"
+    },
+    {
+      "idx": 94,
+      "category": "BILLING_TRAP",
+      "reason": "Risk-free trial required 30-day notice to cancel, lost calls"
+    },
+    {
+      "idx": 95,
+      "category": "BILLING_PREDATORY",
+      "reason": "Agents intentionally make mistakes to boost follow-up calls"
+    },
+    {
+      "idx": 96,
+      "category": "QUALITY_DECAY",
+      "reason": "Started well five years ago, now constant mistakes losing clients"
+    },
+    {
+      "idx": 97,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Dropping the ball, lost business, switched to US-based agents"
+    },
+    {
+      "idx": 98,
+      "category": "BILLING_OPAQUE",
+      "reason": "Billing errors, misleading integrations, not worth 2800/month"
+    },
+    {
+      "idx": 99,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Parade of incompetence, wasted ad budget, lost customers"
+    },
+    {
+      "idx": 100,
+      "category": "BILLING_TRAP",
+      "reason": "Continued billing after cancellation, refund never happened"
+    },
+    {
+      "idx": 101,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Receptionists dont read instructions, cant qualify leads"
+    },
+    {
+      "idx": 102,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Agents didnt follow written process, cant handle international numbers"
+    },
+    {
+      "idx": 103,
+      "category": "BILLING_PREDATORY",
+      "reason": "After-call work pads invoices, systematic time inflation"
+    },
+    {
+      "idx": 104,
+      "category": "BILLING_PREDATORY",
+      "reason": "Charged full minutes for blank calls, undisclosed rounding policy"
+    },
+    {
+      "idx": 105,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Receptionist rude and unprofessional, stays in rotation"
+    },
+    {
+      "idx": 106,
+      "category": "BILLING_PREDATORY",
+      "reason": "Ask to spell 3-4 times to escalate time and per-minute charges"
+    },
+    {
+      "idx": 107,
+      "category": "INAUTHENTICITY",
+      "reason": "Operators appalled patients, skin-crawl level unprofessionalism"
+    },
+    {
+      "idx": 108,
+      "category": "BILLING_PREDATORY",
+      "reason": "Charged overage for minutes within plan, random card charges"
+    },
+    {
+      "idx": 109,
+      "category": "BILLING_PREDATORY",
+      "reason": "Used minutes for testing, charged for HIPAA never received"
+    },
+    {
+      "idx": 110,
+      "category": "BILLING_PREDATORY",
+      "reason": "Changed billing to double charges without customer knowledge"
+    },
+    {
+      "idx": 111,
+      "category": "BILLING_TRAP",
+      "reason": "Switched off lines, forced new subscription 3.5x the price"
+    },
+    {
+      "idx": 112,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Agents follow script robotically, no common sense applied"
+    },
+    {
+      "idx": 113,
+      "category": "GARBLED_INFO",
+      "reason": "70-80% messages incomplete misspelled or spam, cost 30% business"
+    },
+    {
+      "idx": 114,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Agents unprofessional, didnt follow script, couldnt handle calls"
+    },
+    {
+      "idx": 115,
+      "category": "INAUTHENTICITY",
+      "reason": "Wrong company name, gave wrong information not even asked for"
+    },
+    {
+      "idx": 116,
+      "category": "INAUTHENTICITY",
+      "reason": "Constant sales pitch, no interaction, no help with actual problem"
+    },
+    {
+      "idx": 117,
+      "category": "BILLING_TRAP",
+      "reason": "Free forever promise broken, now charging 60/month for access"
+    },
+    {
+      "idx": 118,
+      "category": "BILLING_TRAP",
+      "reason": "Charged for dropped calls, required 26 more days after cancellation"
+    },
+    {
+      "idx": 119,
+      "category": "BILLING_TRAP",
+      "reason": "Billed when not using, forced no refund policy"
+    },
+    {
+      "idx": 120,
+      "category": "BILLING_TRAP",
+      "reason": "Kept billing after dashboard cancel, sent to collections"
+    },
+    {
+      "idx": 121,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Live chat agent asked same questions, not paying attention"
+    },
+    {
+      "idx": 122,
+      "category": "QUALITY_DECAY",
+      "reason": "Loyal for years, since 2023 nosedive, not one call handled right"
+    },
+    {
+      "idx": 123,
+      "category": "BILLING_PREDATORY",
+      "reason": "Check availability adds time to inflate per-minute charges"
+    },
+    {
+      "idx": 124,
+      "category": "GARBLED_INFO",
+      "reason": "Understaffed, hard to get accurate messages, background noise"
+    },
+    {
+      "idx": 125,
+      "category": "ROUTING_ERRORS",
+      "reason": "Cannot handle call distribution, weekly dispatch mistakes"
+    },
+    {
+      "idx": 126,
+      "category": "QUALITY_DECAY",
+      "reason": "Big fan for three years, customer service became horrible recently"
+    },
+    {
+      "idx": 127,
+      "category": "SCRIPT_ADHERENCE",
+      "reason": "Failed to follow script, gave wrong info about services offered"
+    },
+    {
+      "idx": 128,
+      "category": "BILLING_PREDATORY",
+      "reason": "Reps clock excessive time for basic info, per-minute overcharges"
+    },
+    {
+      "idx": 129,
+      "category": "QUALITY_DECAY",
+      "reason": "Grown too quickly, loss of quality and untrained personnel"
+    },
+    {
+      "idx": 130,
+      "category": "MISSED_CALLS",
+      "reason": "Multiple clients said calls never answered, ten rings no answer"
+    },
+    {
+      "idx": 131,
+      "category": "BILLING_PREDATORY",
+      "reason": "Bot calls count toward minutes, wont exclude them"
+    },
+    {
+      "idx": 132,
+      "category": "BILLING_TRAP",
+      "reason": "Wanted to charge cancellation fee, long hold to cancel"
+    },
+    {
+      "idx": 133,
+      "category": "BILLING_PREDATORY",
+      "reason": "Account went live without consent, forced to pay"
+    },
+    {
+      "idx": 134,
+      "category": "BILLING_TRAP",
+      "reason": "Charged for free trial, must pay to cancel"
+    },
+    {
+      "idx": 135,
+      "category": "BILLING_PREDATORY",
+      "reason": "Billed for spam calls and ringing time, upselling during onboard"
+    },
+    {
+      "idx": 136,
+      "category": "BILLING_TRAP",
+      "reason": "Keeps charging after multiple cancel requests, account still active"
+    },
+    {
+      "idx": 137,
+      "category": "GARBLED_INFO",
+      "reason": "Bot fails to capture emails; limited language support"
+    },
+    {
+      "idx": 138,
+      "category": "QUALITY_DECAY",
+      "reason": "Platform glitchy, doesnt work half the time"
+    },
+    {
+      "idx": 139,
+      "category": "BILLING_PREDATORY",
+      "reason": "Bait and switch: tools locked behind enterprise"
+    },
+    {
+      "idx": 140,
+      "category": "INAUTHENTICITY",
+      "reason": "Support unhelpful, pushes upgrades; no AI for own service"
+    },
+    {
+      "idx": 141,
+      "category": "BILLING_PREDATORY",
+      "reason": "White-label promise not delivered; persistent branding"
+    },
+    {
+      "idx": 142,
+      "category": "MISSED_CALLS",
+      "reason": "Bots down for a week; no support response"
+    },
+    {
+      "idx": 143,
+      "category": "BILLING_TRAP",
+      "reason": "450 paid, bot disconnecting, no support 4 days"
+    },
+    {
+      "idx": 144,
+      "category": "BILLING_TRAP",
+      "reason": "Double-charged after cancellation; 2 months no response"
+    },
+    {
+      "idx": 145,
+      "category": "QUALITY_DECAY",
+      "reason": "Updates break things without notice"
+    },
+    {
+      "idx": 146,
+      "category": "QUALITY_DECAY",
+      "reason": "Zero support; advises going elsewhere"
+    },
+    {
+      "idx": 147,
+      "category": "SERIAL_SWITCHING",
+      "reason": "Names Nedzo, Air AI; constant issues"
+    },
+    {
+      "idx": 148,
+      "category": "MISSED_CALLS",
+      "reason": "Calls take 100 minutes; backend broken"
+    },
+    {
+      "idx": 149,
+      "category": "BILLING_PREDATORY",
+      "reason": "Enterprise 20K min but batch calling broken"
+    },
+    {
+      "idx": 150,
+      "category": "BILLING_TRAP",
+      "reason": "450/mo, webhooks broken, switching to Vapi"
+    },
+    {
+      "idx": 151,
+      "category": "BILLING_TOO_EXPENSIVE",
+      "reason": "1000/mo required for tech support"
+    },
+    {
+      "idx": 152,
+      "category": "QUALITY_DECAY",
+      "reason": "AI never works, zero support, incomplete product"
+    },
+    {
+      "idx": 153,
+      "category": "BILLING_PREDATORY",
+      "reason": "25K+ loss; API broken, founders ghost meetings"
+    }
+  ]
+}

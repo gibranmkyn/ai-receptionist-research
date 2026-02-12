@@ -1,0 +1,882 @@
+[
+  {
+    "idx": 440,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Answering service has terrible billing and support, with lost calls due to setup errors and unexplained forwarding changes.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 441,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service was responsive during sales but customer service declined significantly after becoming a client.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 442,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Answering service wastes money by answering solicitation calls and inflates bills with long messages; switched to self-service tool at a fraction of the cost.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 443,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "System issue erased call script causing messages to be taken as if calling an answering machine; law firm lost intake calls and escalation to management took days.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 444,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Answering service reliably answers calls but consistently fails to collect required information accurately, and fixing it just increases per-call costs.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 445,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Answering service reps regularly make errors like failing to process simple orders visible on the website; locked into service because phone number can't be ported.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 446,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Constant mistakes collecting emails, names, and required details; poor customer service response times; looking for a replacement.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 447,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Service quality declined from highly personalized to rote and embarrassing; receptionists seem overworked; switched to competitor.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 448,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Confusing pricing with ad hoc extra charges instead of plan upgrade suggestions; feels like they gouge busy professionals who don't have time to monitor billing.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 449,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Overcharged after company name/pricing change; auto-charged credit card without consent; looking for more stable pricing.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 450,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Sales promised compatibility with Google Voice but calls went to wrong places; technology integration failed; switched to competitor Conversational.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 451,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Basic info collected inaccurately with no effort to look up the right file in the database; constant need to re-input information.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 452,
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "Inconsistent live answering quality; considering cancellation because the core function is so badly overlooked.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 453,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Long hold times before live answer causing callers to hang up; receptionists can't understand callers; wrong company name used.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 454,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Receptionist didn't seem to know what was going on and couldn't give impression of working at the office; considering just answering calls themselves.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 455,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Incorrect information given to customers and incomplete messages; quality doesn't match the price despite agents being polite.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 456,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charged for hang-up calls from robocallers; spam filtering solution doesn't work effectively enough to prevent billing.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 457,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Patients complaining about rude agents after years of declining service quality; actively looking for another service.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 458,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Long hold times, training issues with call handling, and charges being run up; terminating after years of use.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 459,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Slow answer times (10+ rings) and agents have difficulty reading the script.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 460,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "AI receptionist transfers calls to live agents without consent raising the bill; settings don't save; cancellation process is intentionally difficult.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 461,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Upsold to a plan costing $700/month more than needed; support was unreachable; company overcharged by over $3,000 over 5 months.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 462,
+    "relevant": true,
+    "category": "blocker_tried_rejected",
+    "pain_point": "Sales was aggressive about scheduling consultation but couldn't answer questions or provide working demos when things got specific.",
+    "user_type": "prospect",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 463,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Continued charging credit card for five months after trial cancellation; F rating with BBB; dishonest practices.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 464,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Overpromised AI capabilities, couldn't deliver; found a competitor with better AI at less than half the price; charged for months of unused service during setup.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 465,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Receptionists deny work and claim to book appointments but never do; management support is subpar.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 466,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Incoming calls suddenly marked as spam after years of good service; repeated assurances to fix the problem with no resolution, costing the business money.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 467,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "AI sounds like a live human but too many kinks; lost calls during trial; dishonest cancellation policy requiring 30 days notice even after risk-free trial promise.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 468,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Agents fail to follow call handling instructions and scripts; intentionally make mistakes to boost follow-up calls and charges.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 469,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "After 5 years, service deteriorated with failed callbacks costing potentially hundreds of thousands in lost revenue; company only offers $10 credits for major errors.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 470,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Dropped calls and lost business over two years; switched to US-based agents and all issues resolved immediately.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 471,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Billing errors from day one, promised HubSpot/RingCentral integrations didn't work, uncoordinated support; not worth $2,800/month.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 472,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Year-long parade of incompetence; wasted ad budget, lost customers; real switching costs keep unhappy customers trapped.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 473,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Continued billing after cancellation; refused refund unless credit card dispute was withdrawn; VP asked them to remove negative review.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 474,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Rude chat agent who refused to answer simple questions and ended chat abruptly.",
+    "user_type": "prospect",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 475,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Good onboarding but implementation failed; had to triple-check all work; agents lacked critical thinking and made copy-paste errors; $600/month to review their work.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 476,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Agents couldn't follow simple processes like taking international phone numbers despite 7 emails; service cut without notice mid-weekend leaving business unreachable.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 477,
+    "relevant": true,
+    "category": "blocker_tried_rejected",
+    "pain_point": "Missed their own scheduled sales call; took 10 minutes for their own receptionist to figure out how to reach someone internally.",
+    "user_type": "prospect",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 478,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service cancelled client's account for mentioning AI on their website; perceived as stuck in the past.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 479,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Systematic overbilling through opaque 'after-call work' charges; calls lasting 2:20 billed as 5 minutes; hundreds or thousands in overcharges with no transparency.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 480,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Caller received a call from the number and heard heavy breathing when calling back; not a business owner experience.",
+    "user_type": "unknown",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 481,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Answering service promised 30 free calls under 30 seconds but charged for all; bill was $360 vs contracted $275 despite using fewer minutes than allotted.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 482,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Receptionist was rude and unprofessional to a caller, resulting in a 1-star review for the law firm; possible racial bias; company refused to remove agent from rotation.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 483,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charged by the minute while agents ask callers to spell everything 3-4 times to inflate call time; information not taken from script; told clients they weren't clients.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 484,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Fraudulent credit card charges from company the reviewer doesn't have an account with; not a business answering service experience.",
+    "user_type": "unknown",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 485,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Cosmetic surgery clinic's agents were unprofessional and couldn't handle sensitive medical calls; not bilingual as promised; recordings prove poor quality.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 486,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charged for overages on minutes within the plan; service turned off randomly; unreliable; different reps give different answers every call.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": false
+  },
+  {
+    "idx": 487,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Outsourced agents lacked training; used client minutes for testing; charged for HIPAA and IVR services never received; refused refund.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 488,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Unable to set up basic call forwarding after 4 hours on the phone; staff gives the runaround and hangs up.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 489,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Bottom-of-barrel receptionist quality who barely read scripts; billing doubled without notice; call duration hidden to obscure how long staff spends on calls.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 490,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Service switched off after credit card update; forced to buy new subscription at 3.5x the price to get business line back; left without phone for 35 days.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 491,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Script changes require days of back-and-forth; agents follow scripts robotically without common sense; decided to bring call handling in-house despite cost.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 492,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Six months of incomplete, misspelled messages; 70-80% of messages are incomplete or spam; $350/month for useless service; recommends hiring a real receptionist instead.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 493,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Scripting team couldn't understand financial business; agents were unprofessional and didn't follow scripts; 31 test calls all failed; $375 wasted.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 494,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "After acquisition, call quality plummeted; agents give wrong information and get company name wrong; complaints go unresolved.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": false
+  },
+  {
+    "idx": 495,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Complaint about answering service policy regarding specific therapy types and account cancellation due to content policies; not about call quality or AI receptionist.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 496,
+    "relevant": true,
+    "category": "churn_voice_quality",
+    "pain_point": "AI receptionist for businesses starts with upsell options instead of helping; no real interaction, just constant sales pitch; can't resolve actual problems.",
+    "user_type": "unknown",
+    "product_mentioned": "Goodcall",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 497,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "AI phone service broke promise of free account forever; changed access to voicemail requiring $60/month; business number now useless after a year of platform distribution.",
+    "user_type": "business_owner",
+    "product_mentioned": "Goodcall",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 498,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Review about a scam subscription service linked to an IQ test app; completely unrelated to receptionist or answering services.",
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 499,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Law firm grew and Ruby started dropping calls of potential and existing clients; charged for dropped calls; forced to stay 26 more days costing $1,100 after cancellation.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 500,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charges monthly without monitoring; enforces no-refund policy if you forget to cancel when not using the service.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 501,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Couldn't cancel subscription through dashboard; kept billing; had to cancel credit card; sent to collections agency after 6 months of declined charges.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 502,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Live chat agent was rude, unqualified, and repeatedly asked same questions; high price doesn't match basic service quality.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 503,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Review about an online gambling/scam site; completely unrelated to receptionist or answering services.",
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 504,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Ruby's quality nosedived post-2023 after CEO ouster, class action settlement, and system change; every call mishandled; receptionists can't follow basic scripts.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 505,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charged by the minute while receptionists add unnecessary hold time; billing/customer service never available; billed after cancellation.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 506,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Understaffed with background noise issues; inaccurate messages; 10-day fix time for basic phone number issue.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 507,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Can't handle call distribution; weekly mistakes after system upgrade; takes days to correct errors; businesses lost revenue.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 508,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Former fan of Ruby for 3 years; customer service deteriorated, reps hang up on you; simple issues take hours to resolve.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 509,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Law firm receptionists failed to follow script, gave incorrect info to leads, lost prospective clients; no response to urgent emails; cost firm revenue.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 510,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Zero support response for over two weeks despite flagging as urgent; started looking for a new solution.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 511,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "30-40% of calls dropped after switching from Google Voice; Clio integration doesn't work; receptionists clock inflated call times for basic info collection.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 512,
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "Grew too quickly with loss of quality, technical issues, and untrained personnel.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 513,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Calls going unanswered after 10 rings; clueless receptionist didn't know which company she was answering for; cancelled same day.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 514,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Constant price increases over 3 years; bot/spam calls counted against minutes; have to manually request blocking for each number.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 515,
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "Person answering was unintelligible; only received prank calls; waited 7+ minutes on hold to cancel; tried to charge additional fee to cancel.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 516,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Received hour-long recording of a phone ringing with no email response about why.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 517,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Account went live and charged without the customer knowing or being trained on how to use the service.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 518,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charged for unrelated calls during free trial; no web panel for managing service; billed after cancellation with pay-to-cancel requirement.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 519,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Billed for spam calls and phone ringing time; $300/month for Google Calendar integration; wrong timezone scheduling; got addresses wrong; constant upselling.",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 520,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Fraudulent credit card charges continuing after multiple cancellation requests; account still active months after cancellation.",
+    "user_type": "business_owner",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 521,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Aggressive spam calls and emails after declining to sign up; competitors AnswerConnect and LexReception praised as cheaper and better.",
+    "user_type": "prospect",
+    "product_mentioned": "Abby Connect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 522,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Virtual assistant (not receptionist) faked timesheets and didn't complete tasks; general VA staffing complaint, not about answering services.",
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 523,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Virtual assistant service sells unqualified VAs and blames the customer; general VA staffing, not answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 524,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Virtual assistant couldn't handle basic customer service or staff management; general VA service complaint, not about phone answering or receptionist.",
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 525,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "VA service ghosted after deposit payment; refused refund; general virtual assistant staffing complaint, not answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 526,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "VA service upsold and underdelivered on skills; customer success manager pitched a competing service; general VA complaint, not answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 527,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Virtual assistant service slow to respond and makes cancellation difficult; general VA service complaint, not about receptionist or phone answering.",
+    "user_type": "business_owner",
+    "product_mentioned": "Wing Assistant",
+    "quote_quality": 1,
+    "presentation_ready": false
+  }
+]

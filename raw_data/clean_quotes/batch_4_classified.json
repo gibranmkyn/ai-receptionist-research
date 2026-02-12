@@ -1,0 +1,882 @@
+[
+  {
+    "idx": 352,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Answering service reps lack account-specific knowledge and require constant monitoring and retraining to handle calls properly.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 353,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service misspells emails, phone numbers, and names in 40% of messages, and pricing is too high for low-volume callers.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 354,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Virtual receptionist routinely captures wrong phone numbers, addresses, and emails; customers hang up due to painful experience; would switch if an alternative existed.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 355,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Virtual receptionists pushed callers away by being unable to answer even simple questions like 'Do you have a website?' and couldn't pronounce the company name correctly.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 356,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Too many rotating receptionists means specific call handling instructions are frequently ignored; calls are forwarded when messages should be taken and vice versa.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 357,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Virtual receptionist ignored explicit instructions from business owner to screen a wrong-number call, wasting time and money during a busy event.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": false
+  },
+  {
+    "idx": 358,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Per-minute billing feels opaque when a forwarded-to-voicemail call consumes 7 minutes of receptionist time with no documentation of why.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 359,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Virtual receptionist service is inconsistent: sometimes doesn't forward calls when available, sometimes misses appointments, gets names and emails wrong.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 360,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Receptionists ignore the script and put customers on hold despite instructions not to, and pricing is too high for a small business.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 361,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Service quality has declined and is now average, making the premium pricing no longer justified; actively shopping for alternatives.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 362,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Callers experience too many rings (up to 15) before the virtual receptionist picks up.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 363,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Virtual receptionist answers with wrong company name, doesn't capture requested information, and doesn't work with Google Voice.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 364,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Virtual receptionist failed to dispatch calls correctly during setup, causing lost jobs and significant revenue loss.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 365,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Too early to give a meaningful review after only 30 days of use.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 366,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Getting charged for solicitation calls that should be filtered, and outbound caller ID doesn't show company name/number through the app.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 367,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Inconsistent script adherence: some days call screening is spot on, other days receptionists seem not to have read the script.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 368,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Receptionist cannot differentiate between sales calls and actual vendors the business works with.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 369,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Many calls go unanswered and ring through to an automated system despite paying for live receptionist service.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 370,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charged for calls to a recycled phone number unrelated to the business, billed over $30 for internal testing during an upgrade, and lost a day of customer calls due to flawed setup.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 371,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Expensive answering service does not consistently follow instructions despite premium pricing.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 372,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Receptionists have difficulty following call routing instructions and settings; errors persist even after multiple confirmations with support.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 373,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Small law firm's call instructions are not followed correctly and receptionists confuse two people with the same first name despite repeated reminders.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 374,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Ruby's pricing increased 42% over a few years, from $699/mo in 2011 to $1,279/mo in 2018, with annual increases making the service uncompetitive.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 375,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Patients report inconsistent experience with answering service; sometimes agents seem like they don't know what they're doing.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 376,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Billing seems questionable and messages contain errors after a few months of use.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 377,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Very long ring time before answering service picks up, risking lost customers.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 378,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Spent 2 hours over 3 calls trying to resolve an incorrect billing issue with answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 379,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Answering service bill is 7-10x the expected budget; agents continually misspell names, emails, and addresses despite the critical importance of accuracy.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 380,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Caller experience varies greatly depending on which rep answers; the service is better than voicemail but far from ideal.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 381,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Answering service frequently doesn't pick up calls despite that being the core promise of the service.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 382,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Some call center agents don't follow the script and repeat the same mistakes despite corrections; owner is tired of repeating themselves.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 383,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Scripts need to be extremely simple because reps lack live training on each client; only top reps can handle nuanced information gathering, and escalation support is inadequate.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 384,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Operators don't follow the script and script changes are difficult to get implemented.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 385,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Customers complain about rude operators who leave incomplete or inaccurate information.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 386,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Answering service costs over $200/mo for 250 minutes, prices keep rising, and bot calls consume precious paid minutes with no automatic blocking.",
+    "user_type": "business_owner",
+    "product_mentioned": "PATLive",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 387,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Small business owner seeking pricing info and recommendations for answering services to handle contractor calls.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 388,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "AI receptionist startup offering $14.99/mo plans with dedicated phone number, trying to undercut competitors charging $50-100/mo for similar features.",
+    "user_type": "vendor",
+    "product_mentioned": null,
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 389,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Virtual office provider promised phone answering but didn't deliver; implemented surprise per-minute charges that doubled the monthly bill even though calls were being forwarded elsewhere.",
+    "user_type": "business_owner",
+    "product_mentioned": "Regus",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 390,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Solo attorney spends ~$1,200/mo on tech stack including answering service integrated with Lawmatics for intake, considers it worthwhile compared to hiring an employee.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 391,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Discussion about porting an 800 number between carriers after a call center change; technical VOIP issue not about receptionist service quality.",
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 392,
+    "relevant": true,
+    "category": "blocker_trust",
+    "pain_point": "AI customer service creates frustration; prediction that having a real human answer phones will become a competitive differentiator in the next 15-20 years.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 393,
+    "relevant": true,
+    "category": "blocker_tried_rejected",
+    "pain_point": "Lawyer rejects both answering services ('you can instantly tell and they suck') and AI voice assistants ('I hate robots and would never hire a lawyer who used them').",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 394,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Smith.ai works well for solo lawyer with simple call routing: new clients get scheduled, existing clients get messages, urgent calls get transferred; but warns it won't scale for high call volumes.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": false
+  },
+  {
+    "idx": 395,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "General advice about law firm automation tools (practice management, CRM, paralegal hiring) with only a passing mention of receptionist/answering service as one option.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 396,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Happy Smith.ai customer (solo attorney scaling to 10-12 staff) praises human receptionists as flexible, affordable, and professional-sounding.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 397,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Detailed comparison of VOIP phone hardware (Cisco, Poly, Yealink) for office use; receptionist mentioned only in context of phone hardware preferences.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 398,
+    "relevant": true,
+    "category": "blocker_not_ready",
+    "pain_point": "AI phone call handling for dental practices is promising for handling missed calls and waitlist fill-ups, but practice owners want to see it work first before committing.",
+    "user_type": "vendor",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 399,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Detailed technical advice about migrating a cloud PBX system with IP phones; no connection to receptionist or answering services.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 400,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Long-time Ruby Receptionist user canceled because it got too expensive.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 401,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Lawyer discusses Clio frustrations and states they don't see the need for a receptionist since they give clients their cell number.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 402,
+    "relevant": true,
+    "category": "blocker_trust",
+    "pain_point": "Smith.ai employee explains their human-first and AI-first products, emphasizing that call data is never used for third-party LLM training, addressing lawyer confidentiality concerns.",
+    "user_type": "vendor",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 403,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Young agency entrepreneur asking for advice on selling AI chatbots and receptionists; no actual user experience or pain point with AI receptionist products.",
+    "user_type": "vendor",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 404,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "General discussion about law firm voicemail practices and virtual office phone forwarding; not about receptionist or answering service quality.",
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 405,
+    "relevant": true,
+    "category": "blocker_not_ready",
+    "pain_point": "All AI receptionists demoed so far haven't been good enough for prime time, but could serve as overflow/nights/weekends since they're still better than voicemail.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 406,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "General advice about marketing a new law firm; mentions hiring a receptionist and SEO but not about virtual/AI receptionist services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 407,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Advice about law firm workflow management; mentions designating a receptionist as file coordinator but not about virtual/AI receptionist services.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 408,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Personal story about transitioning a legal assistant into a hybrid receptionist/assistant role; about hiring human staff, not virtual/AI services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 409,
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Shared office receptionists handle phones for hundreds of businesses, causing things to get lost; wants something more trackable for intake.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 410,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Describes the ideal receptionist call flow: answer, get name, warm transfer to attorney, take message if unavailable, book consultation for new clients to prevent them calling the next firm.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 411,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Smith.ai works well as live reception for law firm; need to watch for repeat callers driving up costs but overall recommended with good customer support.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 412,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Discussion about hiring an in-house receptionist for a small law firm; about human staffing decisions, not virtual/AI services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 413,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Review of LegalMatch lead generation service for attorneys; no connection to receptionist or answering services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 414,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Mentions telling a physical office receptionist to block off conference room time; about in-person office use, not virtual/AI services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 415,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Virtual receptionist vendor pitches services to a law firm: answering calls, setting appointments, routing calls, and handling after-hours coverage as advantages over hiring in-house.",
+    "user_type": "vendor",
+    "product_mentioned": null,
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 416,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Advice about hiring a human receptionist when expanding a family law practice; about staffing decisions, not virtual/AI services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 417,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "General advice about keeping law firm overhead low and possibly hiring a receptionist or executive assistant; not about virtual/AI services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 418,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Personal career story about starting as a law firm receptionist 40 years ago; completely unrelated to virtual/AI receptionist services.",
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 419,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Comment clarifying that a virtual receptionist is a voice menu system, not AI; brief and tangential.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 420,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Discussion about law firm staffing structure (receptionist, intake, sales, attorneys); about internal hiring, not virtual/AI services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 421,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Long personal legal story that incidentally mentions a law firm receptionist/secretary; entirely unrelated to virtual/AI receptionist services.",
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 422,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Advice for high school intern at a law firm; no connection to virtual/AI receptionist services.",
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 423,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Advice about considering a career in law; suggests taking a receptionist job at a law firm to shadow; completely unrelated to virtual/AI services.",
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 424,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Agency staffing and utilization discussion; mentions receptionist as a non-billable role example, not about virtual/AI services.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 425,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "SmithAI receptionist service allows attorney and paralegal to stay off the phones and bill more, with reasonable pricing despite not being perfect.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 426,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Overview of call screening and virtual receptionist options for lawyers, listing Google Voice, OpenPhone, Ruby, Smith.ai, and Air.ai with pricing tiers.",
+    "user_type": "unknown",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 427,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Solo PI attorney launching a firm includes Smith.ai in their tech stack for receptionist services as part of startup costs.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 428,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Marketing consultant recommends Smith.ai or similar service for solo attorneys to ensure calls are answered and leads aren't lost.",
+    "user_type": "consultant",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 429,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Cloud-based answering service or call center solutions are more cost-effective and flexible than on-premise PBX systems for handling business calls.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 430,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Consultant advises new solo PI attorney to consider Ruby Receptionist or virtual assistant for initial intake to avoid missing time-sensitive leads while in court.",
+    "user_type": "consultant",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 431,
+    "relevant": true,
+    "category": "blocker_trust",
+    "pain_point": "Solo attorney rejected an answering service that used high-pressure limited-time pricing tactics when he asked for a couple extra days to decide.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 432,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Discussion about agency sales tactics and cold-calling methods; no connection to receptionist or answering services.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 433,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Law firm associate discussing job offer details; mentions a couple of receptionists on staff but not about virtual/AI receptionist services.",
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 434,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Employee discussing their experience being hired as a receptionist at a law firm; about human employment, not virtual/AI services.",
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 435,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Solo PI attorney handling 70-80 cases is overwhelmed answering phones, attending court, and managing everything alone; considering first hire (receptionist vs paralegal vs associate).",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 436,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "VOIP technical advice about call queuing for a receptionist handling high call volume; about phone system setup, not virtual/AI receptionist services.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 437,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Comment about VOIP provider receptionist dashboards for call transfers; about phone system features, not virtual/AI receptionist services.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 438,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Agency sales discussion about getting past gatekeepers/receptionists on cold calls; receptionist mentioned only as an obstacle to reach decision makers.",
+    "user_type": "consultant",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 439,
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Solo attorney describes using Zoom phone routed to mother-in-law as informal receptionist; about DIY setup, not virtual/AI receptionist services.",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  }
+]

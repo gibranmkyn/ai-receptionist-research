@@ -1,0 +1,317 @@
+[
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "prospect",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "consultant",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "positive",
+    "pain_point": null,
+    "user_type": "consultant",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Bot fails to capture emails in workflow and platform has limited language support",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Limited language support makes the platform less useful for non-English markets",
+    "user_type": "prospect",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Insufficient minutes allocated for testing makes it hard to properly evaluate the platform before committing",
+    "user_type": "prospect",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "Voice quality is good but the rest of the platform is glitchy and unreliable, causing user to abandon it",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Bait-and-switch pricing where essential tools are locked behind enterprise plan, plus continued billing after cancellation and non-responsive support",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "No customer support at all; company only pushes plan upgrades instead of answering questions",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "White-label service failed to remove Synthflow branding and redirected client support tickets to Synthflow, undermining reseller's credibility",
+    "user_type": "consultant",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Bots went down for over a week with zero support response, leaving business without their AI answering service",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Paid $450/month but bot suddenly disconnects calls with no support response for four days, making the service unusable",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Charged for a free plan and again after cancellation with no response to two months of contact attempts",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "blocker_tried_rejected",
+    "pain_point": "Non-existent support during evaluation period made it impossible to trust the platform for production use",
+    "user_type": "prospect",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "System updates break things without notice and support is the worst, making it impossible to refer to others",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "Zero help from support team; customer advises others to save money and go elsewhere",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Zero customer support, constant recurring issues including inability to buy phone numbers, broken agents, and slow platform loading",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_cant_handle",
+    "pain_point": "Backend failures cause calls to run 100 minutes due to platform not working; user recommends switching to Thoughtly",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Enterprise customer paying $2400/month couldn't use batch calling, tags, or promised features for months; promised refund was never processed",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Paid $450/month but bot fails to make calls, webhooks don't fire, and support is non-existent for 6+ days; switching to Vapi",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Support refused technical call unless spending $1000/month, took 2 months to communicate this restriction",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "AI never functions properly, zero support, zero documentation; product is incomplete and unusable, filing bank dispute",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Spent $25K on developer plus $450/month top plan but API doesn't work, bot hallucinates, founders no-showed 3 meetings, no refund; estimates $40K total loss",
+    "user_type": "business_owner",
+    "product_mentioned": "Synthflow",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "relevant": false,
+    "category": "general",
+    "pain_point": "Employee at a business using Bland AI yelled at and threatened a caller",
+    "user_type": "unknown",
+    "product_mentioned": "Bland AI",
+    "quote_quality": 1,
+    "presentation_ready": false
+  }
+]

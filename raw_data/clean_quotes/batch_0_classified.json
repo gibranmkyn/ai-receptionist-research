@@ -1,0 +1,882 @@
+[
+  {
+    "idx": 0,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 1,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 2,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 3,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 4,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Recommends virtual receptionist service as affordable first step for solo attorneys starting out",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 5,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 6,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Phone answering service missed 1 in 5 calls, clients never got the same receptionist, and existing clients were grumpy being met with an answering service instead of someone who knew them",
+    "user_type": "business_owner",
+    "product_mentioned": "Virtual HQ",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 7,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 8,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Solo attorney lists remote receptionist at $15/mo as part of startup cost stack, showing it is a standard line item for new firms",
+    "user_type": "business_owner",
+    "product_mentioned": "OpenPhone",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 9,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 10,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 11,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 12,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 13,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Solo attorney advises getting a virtual office with a live receptionist who can answer phones, receive mail, and greet clients as essential infrastructure",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 14,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Ruby used as overflow for 500 calls/month but people can still tell the difference between in-house staff and the call service, and conversions are much better with own people answering",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 15,
+    "relevant": true,
+    "category": "blocker_not_ready",
+    "pain_point": "Solo attorney wants to hire a virtual receptionist to answer phone calls but hasn't yet; currently uses a text service workaround to avoid phone interruptions",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 16,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Smith.ai described as the greatest thing ever done for the firm; unprompted enthusiastic endorsement of their answering service",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 17,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 18,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 19,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 20,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 21,
+    "relevant": true,
+    "category": "blocker_not_ready",
+    "pain_point": "Solo attorney says you don't need an answering service; with Google Workspace, OpenPhone, and Squarespace you can run a functional firm for $40/month without one",
+    "user_type": "business_owner",
+    "product_mentioned": "OpenPhone",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 22,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Solo attorney lists Ruby virtual receptionist as an expense alongside malpractice insurance, Lexis, and other overhead costs, showing answering services are a meaningful cost burden",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 23,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Dropped Smith.ai after multiple client complaints about call quality; switched to Ruby which resolved the issue",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 24,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 25,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 26,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 27,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 28,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service owner argues IVR is terrible for first-time callers seeking high-dollar services; the industry is littered with terrible cheap answering services that lose leads",
+    "user_type": "vendor",
+    "product_mentioned": null,
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 29,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 30,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 31,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 32,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 33,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 34,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 35,
+    "relevant": true,
+    "category": "churn_billing",
+    "pain_point": "Dropped Smith.ai after two years because they became more expensive and charge per call; switched to AnswerConnect which charges per minute and is much cheaper",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 36,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Smith.ai had call quality and background noise issues from work-from-home receptionists; Ruby was more expensive but well worth it; Gabbyville was fine but forgettable",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 37,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 38,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Regus",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 39,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 40,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 41,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 42,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 43,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 44,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Consultant recommends Smith.ai or Ruby Reception for call answering as part of ideal small firm tech stack, alongside Lawmatics for intake automation",
+    "user_type": "consultant",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 45,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Uses 24/7 answering service to capture leads on weekends and after hours because calling a lead on Monday means they already hired someone else",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 46,
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "Tried Ruby virtual receptionist, thought they were really good, but cancelled because call volume was too low when starting out to justify the cost",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 47,
+    "relevant": true,
+    "category": "blocker_not_ready",
+    "pain_point": "Attorney argues firms are obsessed with having someone answer the phone but everyone expects an auto attendant; says you don't need a receptionist, just get staff who handle daily tasks",
+    "user_type": "consultant",
+    "product_mentioned": "RingCentral",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 48,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 49,
+    "relevant": true,
+    "category": "blocker_trust",
+    "pain_point": "AI tools are not ready for full PI intakes yet because clients aren't comfortable talking to them; a receptionist can take the first call but a human paralegal should qualify the lead",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 50,
+    "relevant": true,
+    "category": "blocker_not_ready",
+    "pain_point": "AI receptionist might be a good idea down the road but isn't ready for prime time yet; advises keeping W-2 headcount to a minimum and looking at AI solutions",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 51,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 52,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Recommends Moneypenny to screen calls as a way to eliminate the need for a receptionist hire entirely",
+    "user_type": "business_owner",
+    "product_mentioned": "Moneypenny",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 53,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 54,
+    "relevant": true,
+    "category": "general",
+    "pain_point": "Recommends getting a virtual receptionist service within 3 months of starting solo practice, positioning it as essential but not day-one infrastructure",
+    "user_type": "business_owner",
+    "product_mentioned": null,
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 55,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 56,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": null,
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 57,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Law firm has used Smith.ai for three years and highlights their responsiveness and willingness to work on improving service",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 58,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Praises dedicated account manager who reviews account monthly and follows up proactively",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 59,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Excellent onboarding experience; support rep stayed calm and helpful even during cellular provider issues",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 60,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Tried several AI answering systems and Smith.ai was the best by a landslide; combination of live receptionists and AI works well",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 61,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Switched from a different answering service to Smith.ai; loves call transparency, ability to listen to calls, and free spam/sales call blocking",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 62,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Smith.ai is a great partner; team is committed to solving problems, follows up quickly, and the platform is user-friendly and easy to configure",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 63,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Eight-year Smith.ai customer loves the combination of live people and AI plus outgoing calls for appointment confirmations, saving time on repetitive calls",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 64,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI reception was easy to setup and manage for a growing law firm",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 65,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "24/7 availability is transformative for emergency restoration business; receptionists qualify leads and route calls, saving countless hours; flat-rate per-call pricing is predictable with no charges for blocked spam",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 66,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Call summaries via email let staff follow up on their preferred schedule; Smith.ai gathers caller contact preferences during the call",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 67,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist ensures every potential client call is captured 24/7 for the firm",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 68,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Service is professional and on point with business needs",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 69,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Essential addition for a demanding law practice; knowledgeable and patient onboarding team",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 70,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Onboarding team is extremely helpful and proactive in providing solutions for setup and usage questions",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 71,
+    "relevant": true,
+    "category": "blocker_tried_rejected",
+    "pain_point": "Initially hesitant about AI answering service, but customizability convinced them to try it as overflow reception; people complimented it and asked about it",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 72,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Virtual reception covers all after-hours calls; support team provides exceptional service and clear communication",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 73,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Business owner feared AI company impact on customers but AI assistant handles calls according to preset standards, transfers to live person when needed, and provides detailed email transcriptions; couldn't afford a sales team so this was the solution",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 74,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist is a game changer for solo practitioner; spends more time with patients and doesn't worry about missing calls or leads",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 75,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Eliminates spam and solicitor calls; helps respond quicker to real customers",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 76,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Smooth integration, expanded from one location to two; customer care goes beyond expectations with proactive check-ins",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 77,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Effortless spam filtering and automatic appointment scheduling based on calendar saves a ton of time and ensures no important calls are missed",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 78,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Onboarding specialist made life easier from day one",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 79,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Every call handled professionally and promptly; never misses a detail and passes along accurate messages",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 80,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Easy onboarding, spam calls eliminated, simple dashboard for managing calls and leads",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 81,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist handles calls professionally, never misses a lead, integrates with CRM, and gives peace of mind that every call is covered",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 82,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Call forwarding system connects sales opportunities to a rep instantly while taking messages for general inquiries; lets team stay focused on production",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 83,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Healthcare provider trained AI within days using FAQs; live agents available 24/7 as fallback; clinic is now effectively open 24/7",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 84,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI answers phones accurately and passes along timely messages",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 85,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Had less than stellar experiences with live answering services in the past; Smith.ai's live agents are consistently professional and warm; AI plus live agent handoff already generated two consultations in the first week",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 86,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Life saver for tiny 3-person clinic where getting to the phone is difficult; captures leads and provides email notifications",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 87,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Simple setup process and top-notch customer service throughout",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  }
+]

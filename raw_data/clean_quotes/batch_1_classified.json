@@ -1,0 +1,882 @@
+[
+  {
+    "idx": 88,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist improved efficiency by handling calls and asking the right questions, freeing up time for other work.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 89,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist accurately sends email summaries and distinguishes important calls from spam for a small travel business.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 90,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Virtual receptionist eliminates need to answer every call personally and provides customizable intake questions plus transcripts.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 91,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Small business found the onboarding experience valuable for handling leads and active customers.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 92,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 93,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 94,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 95,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "After going virtual, solo lawyer missed personal contact but found virtual receptionist service that clients perceive as an in-office receptionist.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 96,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 97,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 98,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Consultant recommends Smith.ai as the best virtual receptionist for law firms, highlighting outbound calling for after-hours lead follow-up.",
+    "user_type": "consultant",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 99,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 100,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Pest control business owner impressed that AI voice assistant sounds realistic; customers are shocked it is AI, and spam filtering plus instant email delivery of messages is a key benefit.",
+    "user_type": "business_owner",
+    "product_mentioned": "Smith.ai",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 101,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "unknown",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 102,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 103,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 104,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 105,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "10+ year user of answering service reports reliable, professional call handling with no client complaints.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 106,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service user appreciates ability to quickly update call scripts through a dedicated account manager.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 107,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 108,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Customer found a solution that saved time and money on call forwarding costs with their answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 109,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 110,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 111,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "User values easy message access, reporting, and responsive customer service from their answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 112,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Business owner impressed with end-to-end answering service experience including script fine-tuning, FAQ setup, and billing support.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 113,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "First-time answering service user had many questions and appreciated patient onboarding guidance.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 114,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "After-hours call handling gives peace of mind that important calls are never missed, with quick onboarding and easy-to-use app.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 115,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service described as a blessing to the company, with responsive billing inquiry support.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 116,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 117,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Quick script changes handled efficiently via chat support for their answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 118,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 119,
+    "relevant": true,
+    "category": "churn_general",
+    "pain_point": "Inconsistent quality depending on which rep answers; experience ranges from frustrating to excellent.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 120,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 121,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Customer needed complex account modifications that initially seemed impossible but were eventually resolved by a dedicated rep.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 122,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Property management company had bumps during setup but appreciated Zoom-based onboarding to ensure accuracy across multiple properties; awaiting real-world call results.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 123,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 124,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "User needed to significantly restructure their answering service setup, requiring an hour-long call to reconfigure.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 125,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 126,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service needed creative solutions to accommodate a unique office setup.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 127,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Business needed help understanding how scheduling could be incorporated into their answering service workflow.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 128,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 129,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "New answering service user had initial issues that needed ironing out, values ability to update script for holiday periods.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 130,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service made managing customer inquiries smoother with quick, professional call answering.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 131,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 132,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Company needed a new sub-account with customized script for a preferred customer support line, requiring coordination across multiple account managers.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 133,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Business needed to understand the full call workflow from initial call through information delivery before committing to service.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 134,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Customer proactively sought to reduce monthly invoice because they were not using all the minutes in their plan; rep created a custom plan to match actual usage.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 4,
+    "presentation_ready": false
+  },
+  {
+    "idx": 135,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "User valued guided onboarding to help use the answering service tool to its best abilities.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 136,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Answering service provides transparency and clarity that satisfies clients, with comprehensive features for their needs.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 137,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 138,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 139,
+    "relevant": true,
+    "category": "pricing",
+    "pain_point": "Busy clinics partnered with answering service; billing inquiry was handled well with clear logic and options presented.",
+    "user_type": "business_owner",
+    "product_mentioned": "AnswerConnect",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 140,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Business tried several AI receptionist providers and entered contracts, but found products could not adapt to their needs and were more expensive; switched to Dialzara as the best option.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 141,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist sounds more realistic than other systems tested (including more expensive ones), handles real conversations, filters solicitation calls, and keeps the day organized.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 142,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "First-time AI service user found quality AI answering service experience.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 143,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist system meets and exceeds business needs with strong tech support.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 144,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Good service with responsive customer support that quickly fixes issues even for non-technical users.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 145,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist is set-it-and-forget-it, allowing business to load FAQs and automate responses with responsive support.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 146,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Good price, intuitive interface, and quality virtual agent interaction.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 147,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist replaced a labor-intensive part of the business; call transcripts via text and email ensure no missed calls, with strong price-to-value ratio.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 148,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Veteran real estate investor tried multiple AI receptionist services that all failed before finding one that worked; now saving over $1,000/month by cancelling previous answering service.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 149,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist makes managing customer service much easier for any business.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 150,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "User-friendly platform with exceptional customer support, including founder personally resolving issues.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 151,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Office did not realize how many opportunities were lost after hours until implementing AI receptionist; grew sales by $16,000 in the first months.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 152,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "CPA firm needed AI phone receptionist to adapt to working schedule and assist with client calls on busy days; values call logs and transcription dashboard.",
+    "user_type": "business_owner",
+    "product_mentioned": "Dialzara",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 153,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Easy setup for non-technical users with support team helping build your own AI receptionist.",
+    "user_type": "business_owner",
+    "product_mentioned": "My AI Front Desk",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 154,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Frictionless CRM integration with inbound and outbound calling, thorough documentation and notifications.",
+    "user_type": "business_owner",
+    "product_mentioned": "My AI Front Desk",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 155,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI phone call management reduced human effort and saves money every month.",
+    "user_type": "business_owner",
+    "product_mentioned": "My AI Front Desk",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 156,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "All-in-one platform with native CRM, chatbot, and ticketing system built into the AI receptionist is highly convenient.",
+    "user_type": "business_owner",
+    "product_mentioned": "My AI Front Desk",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 157,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "AI receptionist doubled as CRM for outbound campaigns, resulting in 20% increase in sales call bookings.",
+    "user_type": "business_owner",
+    "product_mentioned": "My AI Front Desk",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 158,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Brokerage was nervous about AI handling calls where deals start, but gradually transitioned from after-hours to all calls; AI freed team for higher-value work, improved follow-ups, and accelerated growth.",
+    "user_type": "business_owner",
+    "product_mentioned": "My AI Front Desk",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 159,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "IT professional impressed by Ruby's AI features like Sentiment Analysis and Transcription, sees it as gold standard for scaling with business.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 160,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "After-hours live answering was a huge deal for customers; Ruby staff is professional and consistent for busy seasonal business.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 161,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Before virtual receptionist, many calls were missed and people would not leave voicemails, causing lost leads; service improved consultation rate and workflow.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 162,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "5+ year chat service user reports zero customer complaints about the chat receptionist experience.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 163,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Quick, painless, cost-effective setup; regret not having the virtual receptionist service sooner.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 164,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "employee",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 165,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Growing business immediately found their call answering need filled by virtual receptionist service.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 2,
+    "presentation_ready": false
+  },
+  {
+    "idx": 166,
+    "relevant": true,
+    "category": "churn_switched",
+    "pain_point": "Previously relied on voicemail with voice-to-text email and customers hated the menu-based system; switching to live receptionist improved communication so much they had to increase minutes twice.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 5,
+    "presentation_ready": true
+  },
+  {
+    "idx": 167,
+    "relevant": true,
+    "category": "positive",
+    "pain_point": "Small RV park and Marina saw substantial monthly revenue increase after using receptionist service because they no longer miss calls while out on property.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 168,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 169,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Virtual receptionist acts like a professional, friendly, knowledgeable personal assistant that makes the business look good to customers.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 170,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "30-year answering service veteran says Ruby is the best; clients think they are talking to an in-office assistant, and script changes are handled immediately.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 171,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Healthcare provider confident that patients have someone competent and reliable to speak with when they call; requests returned within minutes.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 172,
+    "relevant": false,
+    "category": "general",
+    "pain_point": null,
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 1,
+    "presentation_ready": false
+  },
+  {
+    "idx": 173,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Long-term user has sampled other services and none come close; mistakes are rare and fixed quickly.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  },
+  {
+    "idx": 174,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Solo law firm uses virtual receptionist for client intake, scheduling, and FAQs, freeing time for casework and giving the firm a polished feel of a larger operation.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 4,
+    "presentation_ready": true
+  },
+  {
+    "idx": 175,
+    "relevant": true,
+    "category": "competitor_experience",
+    "pain_point": "Clinic needed protocol update for urgent after-hours calls including text alerts, backup call routing, and follow-up; changes handled promptly.",
+    "user_type": "business_owner",
+    "product_mentioned": "Ruby Receptionist",
+    "quote_quality": 3,
+    "presentation_ready": false
+  }
+]
