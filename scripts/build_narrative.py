@@ -110,6 +110,31 @@ def normalize_product(p):
     if not p or p == "unnamed": return "Other"
     return "Ruby Receptionist" if p == "Ruby" else p
 
+def add_hyperlink(paragraph, text, url, font_size=Pt(8), color=RGBColor(0x05, 0x63, 0xC1)):
+    """Add a hyperlink run to a paragraph."""
+    part = paragraph.part
+    r_id = part.relate_to(url, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink", is_external=True)
+    hyperlink = OxmlElement("w:hyperlink")
+    hyperlink.set(qn("r:id"), r_id)
+    run_el = OxmlElement("w:r")
+    rPr = OxmlElement("w:rPr")
+    c_el = OxmlElement("w:color")
+    c_el.set(qn("w:val"), f"{color}")
+    rPr.append(c_el)
+    u_el = OxmlElement("w:u")
+    u_el.set(qn("w:val"), "single")
+    rPr.append(u_el)
+    sz_el = OxmlElement("w:sz")
+    sz_el.set(qn("w:val"), str(int(font_size.pt * 2)))
+    rPr.append(sz_el)
+    run_el.append(rPr)
+    t_el = OxmlElement("w:t")
+    t_el.set(qn("xml:space"), "preserve")
+    t_el.text = text
+    run_el.append(t_el)
+    hyperlink.append(run_el)
+    paragraph._p.append(hyperlink)
+
 def truncate(text, n=200):
     t = text.replace("\n", " ").strip()
     return t[:n] + "..." if len(t) > n else t
@@ -1022,25 +1047,28 @@ def main():
 
     spacer(doc)
 
-    # ── Table of Contents ─────────────────────────────────────
+    # ── Table of Contents (Word TOC field — auto page numbers + clickable links) ──
     h(doc, "Contents", level=2)
-    toc_items = [
-        ("1.", "The Setup", "Where the data comes from"),
-        ("2.", "How the Market Breaks", "Four groups, 11 failure modes, and what AI changes"),
-        ("3.", "Who\u2019s Bleeding", "Competitor vulnerabilities, switching patterns, dollar impact"),
-        ("4.", "Why Now", "The real ratings, the fake ones, and the AI-native window"),
-        ("5.", "The Play", "What to build, what to charge, who to target"),
-        ("", "Appendix: Methodology", "Data collection, classification, limitations"),
-        ("", "Appendix: Evidence Samples", "Three quotes per failure group with source links"),
-        ("", "Appendix: Sample Raw Data", "10 quotes with original source URLs"),
-    ]
-    for num, title, desc in toc_items:
-        p = doc.add_paragraph()
-        p.paragraph_format.space_before = Pt(1)
-        p.paragraph_format.space_after = Pt(1)
-        prefix = f"{num} " if num else "    "
-        r = p.add_run(f"{prefix}{title}"); r.bold = True; r.font.size = Pt(10.5); r.font.color.rgb = DARK_BLUE
-        r2 = p.add_run(f"  \u2014  {desc}"); r2.font.size = Pt(9.5); r2.font.color.rgb = MID_GRAY
+    p = doc.add_paragraph()
+    run = p.add_run()
+    fld_char_begin = OxmlElement("w:fldChar")
+    fld_char_begin.set(qn("w:fldCharType"), "begin")
+    run._r.append(fld_char_begin)
+    run2 = p.add_run()
+    instr = OxmlElement("w:instrText")
+    instr.set(qn("xml:space"), "preserve")
+    instr.text = ' TOC \\o "1-1" \\h \\z \\u '
+    run2._r.append(instr)
+    run3 = p.add_run()
+    fld_char_separate = OxmlElement("w:fldChar")
+    fld_char_separate.set(qn("w:fldCharType"), "separate")
+    run3._r.append(fld_char_separate)
+    run4 = p.add_run("(Right-click \u2192 Update Field to generate table of contents)")
+    run4.font.size = Pt(9); run4.font.color.rgb = MID_GRAY; run4.italic = True
+    run5 = p.add_run()
+    fld_char_end = OxmlElement("w:fldChar")
+    fld_char_end.set(qn("w:fldCharType"), "end")
+    run5._r.append(fld_char_end)
     spacer(doc)
 
     # ══════════════════════════════════════════════════════════════
@@ -1774,7 +1802,7 @@ def main():
     # ══════════════════════════════════════════════════════════════
     doc.add_page_break()
     h(doc, "Appendix: Evidence Samples", level=1)
-    body(doc, "Three representative quotes per failure group, ranked by weight (quote detail \u00D7 community engagement).")
+    body(doc, "Three representative quotes per failure group, ranked by quality score.")
 
     for g in GROUP_ORDER:
         gs = group_stats[g]
@@ -1836,6 +1864,73 @@ def main():
 
     body(doc, f"Full database of all {n_total} quotes with source links available in the supplementary data files.",
          italic=True, sz=Pt(9), color=MID_GRAY)
+
+    # ══════════════════════════════════════════════════════════════
+    # APPENDIX: ALL CHURN QUOTES CATEGORIZED
+    # ══════════════════════════════════════════════════════════════
+    doc.add_page_break()
+    h(doc, "Appendix: All Churn Quotes", level=1)
+    body(doc, f"All {n_total} churn quotes organized by customer-voiced failure mode. "
+         f"Quotes are ranked by quality score within each category.")
+
+    for g in GROUP_ORDER:
+        gs = group_stats[g]
+        g_pct = gs["weighted"] / total_weighted * 100
+        spacer(doc)
+        body(doc, f"{g} ({gs['count']} quotes, {g_pct:.0f}% of churn)", bold=True, color=DARK_BLUE, sz=Pt(12))
+
+        g_cats = sorted(gs["cats"], key=lambda cc: cat_stats[cc]["count"], reverse=True)
+        for cat in g_cats:
+            cs = cat_stats[cat]
+            label = CATEGORY_META[cat]["short"]
+            cat_pct = cs["weighted"] / total_weighted * 100
+            body(doc, f"\u201C{label}\u201D ({cs['count']} quotes, {cat_pct:.0f}%)",
+                 bold=True, color=DARK_BLUE, sz=Pt(10.5))
+
+            sorted_q = sorted(cs["quotes"], key=lambda x: x[2], reverse=True)
+            tbl = doc.add_table(rows=1, cols=2)
+            tbl.style = "Table Grid"
+            tbl.rows[0].cells[0].text = "Source"
+            tbl.rows[0].cells[1].text = "Quote"
+            # Set 2:8 column widths
+            total_w = Inches(6.5)
+            for row_obj in tbl.rows:
+                row_obj.cells[0].width = Emu(int(total_w * 0.2))
+                row_obj.cells[1].width = Emu(int(total_w * 0.8))
+            for rank, (idx, q, w) in enumerate(sorted_q, 1):
+                prod = normalize_product(q["llm"].get("product_mentioned"))
+                source = q.get("source", "")
+                url = q.get("url", "")
+                if not source:
+                    source = "Trustpilot" if "trustpilot" in url else "Reddit" if "reddit" in url else "Unknown"
+                date = q.get("date", "")
+                text = q["text"].replace("\n", " ").strip()
+
+                row = tbl.add_row()
+                # Source cell (left, narrow) — hyperlinked
+                cell0 = row.cells[0]
+                cell0.width = Emu(int(total_w * 0.2))
+                cell0.text = ""
+                p0 = cell0.paragraphs[0]
+                if url:
+                    add_hyperlink(p0, prod, url)
+                else:
+                    r0 = p0.add_run(prod)
+                    r0.font.size = Pt(8); r0.font.color.rgb = MID_GRAY
+                r_src = p0.add_run(f"\n{source}")
+                r_src.font.size = Pt(7); r_src.font.color.rgb = MID_GRAY
+                if date:
+                    r_date = p0.add_run(f"\n{date}")
+                    r_date.font.size = Pt(7); r_date.font.color.rgb = MID_GRAY
+                # Quote cell (right, wide)
+                cell1 = row.cells[1]
+                cell1.width = Emu(int(total_w * 0.8))
+                cell1.text = ""
+                p1 = cell1.paragraphs[0]
+                r1 = p1.add_run(f"\u201C{text}\u201D")
+                r1.italic = True; r1.font.size = Pt(9); r1.font.color.rgb = DARK_GRAY
+            style_table(tbl)
+            spacer(doc)
 
     # ── Save docx ──────────────────────────────────────────────────
     doc.save(OUTPUT_DOCX)
