@@ -4,7 +4,7 @@ I was evaluating whether to enter the virtual receptionist market with an AI pro
 
 Feature comparisons and competitor marketing pages don't tell you that. Churning customers do. So I went after churn reviews specifically — the moments where someone is frustrated enough to describe exactly what failed, how much they were paying, and what they did next. That's where the real product insight lives.
 
-I scraped 409 reviews from Reddit and Trustpilot, isolated the 154 that described why someone left, and coded them into a taxonomy of failure modes. The whole thing was done by me as a solo PM using AI tools.
+I scraped 409 reviews from Reddit and Trustpilot, isolated the 154 that described why someone left, and coded them into a taxonomy of failure modes. The whole thing — scraping, cleaning, classification, dual coding, analysis, charts, and final deliverables — was built and run on my MacBook in about 6 hours using Claude Code.
 
 ## The Problem I Was Trying to Solve
 
