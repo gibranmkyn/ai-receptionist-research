@@ -1,6 +1,6 @@
-# Market Research: Virtual Receptionist Industry
+# Market Research: Virtual Receptionists in the US
 
-Churn analysis of the virtual receptionist / answering service market. 409 reviews scraped from Reddit and Trustpilot, 154 churn stories dual-coded into 11 categories, packaged into product strategy recommendations.
+Churn analysis of the US virtual receptionist / answering service market. 409 reviews scraped from Reddit and Trustpilot, 154 churn stories dual-coded into 11 categories, packaged into product strategy recommendations.
 
 I did this as a Product Manager evaluating a market entry for an AI receptionist product. The research question was simple: **why do customers leave existing answering services, and what would make them switch?**
 
