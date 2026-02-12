@@ -1,14 +1,16 @@
 # Market Research: Virtual Receptionists in the US
 
-I was evaluating whether to enter the virtual receptionist market with an AI product. The existing research was either too surface-level (analyst one-pagers) or too expensive (commissioned studies). So I built my own.
+I was evaluating whether to enter the virtual receptionist market with an AI product. Before building anything, I needed to understand why customers churn from existing solutions — what pain points aren't being solved, where the gaps are, and what would actually make someone switch.
 
-I scraped 409 real customer reviews from Reddit and Trustpilot, isolated the 154 that described exactly why someone left their answering service, and coded them into a taxonomy of failure modes. The whole thing — collection, cleaning, classification, analysis, and final deliverables — was done by me as a solo PM using AI tools.
+Feature comparisons and competitor marketing pages don't tell you that. Churning customers do. So I went after churn reviews specifically — the moments where someone is frustrated enough to describe exactly what failed, how much they were paying, and what they did next. That's where the real product insight lives.
+
+I scraped 409 reviews from Reddit and Trustpilot, isolated the 154 that described why someone left, and coded them into a taxonomy of failure modes. The whole thing was done by me as a solo PM using AI tools.
 
 ## The Problem I Was Trying to Solve
 
-Before building anything, I needed to know: **what actually breaks in answering services?** Not what competitors say in their marketing, not what industry reports summarize from surveys — what do customers say in their own words when they're angry enough to write a review or a Reddit post?
+The answering service market looks competitive on the surface — dozens of providers, established brands, high ratings. But ratings don't tell you what's broken. I wanted to know: **what are the specific, recurring pain points that existing solutions fail to solve?**
 
-That's a qualitative research problem. Normally you'd hire a research agency or spend weeks reading reviews manually. I wanted to see if I could get the same rigor faster by using AI to do the heavy lifting.
+If I could map those pain points systematically, I'd know exactly what to build, what to say in marketing, and whose customers to target first. That meant collecting churn stories at scale and turning them into structured, quantified data I could act on.
 
 ## What I Built
 
