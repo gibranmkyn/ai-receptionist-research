@@ -1,4 +1,4 @@
-# Market Research: Virtual Receptionists in the US
+# Why Customers Leave: Virtual Receptionists in the US
 
 I was evaluating whether to enter the virtual receptionist market with an AI product. Before building anything, I needed to understand why customers churn from existing solutions — what pain points aren't being solved, where the gaps are, and what would actually make someone switch.
 
