@@ -41,8 +41,8 @@ All charts, tables, and the narrative document are generated programmatically fr
 
 | File | Description |
 |---|---|
-| [`Virtual Receptionist Churn Analysis.pdf`](Virtual%20Receptionist%20Churn%20Analysis.pdf) | 18-slide strategy deck |
-| [`Deep Dive Report.pdf`](Deep%20Dive%20Report.pdf) | Narrative report with charts and recommendations |
+| [`Virtual Receptionist Churn Analysis.pdf`](Virtual%20Receptionist%20Churn%20Analysis.pdf) | **Final deliverable** — 18-slide strategy deck (built with NotebookLM) |
+| [`Deep Dive Report.pdf`](Deep%20Dive%20Report.pdf) | Supporting narrative report with charts and recommendations |
 | [`churn_quotes_categorized.md`](churn_quotes_categorized.md) | All 154 churn quotes by category |
 | [`methodology.md`](methodology.md) | Methodology and data quality notes |
 
