@@ -23,11 +23,11 @@ from docx.oxml.ns import nsdecls, qn
 from docx.oxml import parse_xml, OxmlElement
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-QUOTES_FILE = os.path.join(BASE, "raw_data", "clean_quotes", "final_quotes.json")
-CODER_A = os.path.join(BASE, "audit", "coder_a_k9.json")
-CODER_B = os.path.join(BASE, "audit", "coder_b_k9.json")
-CHART_DIR = os.path.join(BASE, "audit", "charts")
-OUTPUT_DOCX = os.path.join(BASE, "deliverables", "answering_service_churn.docx")
+QUOTES_FILE = os.path.join(BASE, "data", "raw", "clean_quotes", "final_quotes.json")
+CODER_A = os.path.join(BASE, "data", "coder_a_k9.json")
+CODER_B = os.path.join(BASE, "data", "coder_b_k9.json")
+CHART_DIR = os.path.join(BASE, "data", "charts")
+OUTPUT_DOCX = os.path.join(BASE, "Deep Dive Report.docx")
 
 # ── Colors ────────────────────────────────────────────────────────────
 C_BLUE    = "#1B365F"
@@ -219,7 +219,7 @@ def compute_switching_data(quotes, final_codes):
     return {"total": len(switched), "net_flow": nf, "triggers": triggers}
 
 def compute_temporal_data():
-    review_dir = os.path.join(BASE, "raw_data", "review_data", "raw")
+    review_dir = os.path.join(BASE, "data", "raw", "review_data", "raw")
     name_map = {"answerconnect": "AnswerConnect", "patlive": "PATLive",
                 "smithai": "Smith.ai", "ruby_receptionist": "Ruby Receptionist"}
     comp_order = ["AnswerConnect", "Ruby Receptionist", "PATLive", "Smith.ai"]
@@ -253,7 +253,7 @@ def compute_temporal_data():
     return result, comp_order
 
 def compute_bimodality(comp_order):
-    review_dir = os.path.join(BASE, "raw_data", "review_data", "raw")
+    review_dir = os.path.join(BASE, "data", "raw", "review_data", "raw")
     name_map = {"answerconnect": "AnswerConnect", "patlive": "PATLive",
                 "smithai": "Smith.ai", "ruby_receptionist": "Ruby Receptionist"}
     result = {}
@@ -1844,7 +1844,7 @@ def main():
     print(f"  {len(c)} charts in {CHART_DIR}/")
 
     # ── Export categorized churn list (customer-centric labels) ──
-    cat_list_path = os.path.join(BASE, "deliverables", "churn_quotes_categorized.md")
+    cat_list_path = os.path.join(BASE, "churn_quotes_categorized.md")
     lines = []
     lines.append("# Churn Quotes by Category\n")
     lines.append(f"**{n_total} churn quotes** from {total_reviews} reviews across 9 competitors, "
@@ -1879,7 +1879,9 @@ def main():
                 pain = q["llm"].get("pain_point", "")
                 text = q["text"].replace("\n", " ").strip()
 
-                lines.append(f"**#{rank}** | {prod} | Quality: {quality}/5 | {source}\n")
+                date = q.get("date", "")
+                date_str = f" | {date}" if date else ""
+                lines.append(f"**#{rank}** | {prod} | Quality: {quality}/5 | {source}{date_str}\n")
                 if pain:
                     lines.append(f"*{pain}*\n")
                 lines.append(f"> {text}\n")
