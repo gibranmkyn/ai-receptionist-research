@@ -1,12 +1,18 @@
 # AI-Powered Market Research: Virtual Receptionist Industry
 
-A competitive churn analysis of the virtual receptionist / answering service market, conducted entirely with AI-assisted research methods. Built to inform product strategy for an AI receptionist startup entering the space.
+A competitive churn analysis of the virtual receptionist / answering service market, conducted by a Product Manager using AI as a force multiplier for market research. The entire pipeline — from data collection to coded analysis to final deliverables — was built and executed by one person using AI tools, producing research that would typically require a team of analysts and weeks of manual coding.
 
-## What This Is
+## Context
 
-I wanted to understand why customers leave answering services — not from surveys or analyst reports, but from their own words. I scraped 409 real reviews from Reddit and Trustpilot across 9 competitors, then used AI to classify, dual-code, and analyze 154 churn stories into actionable product and go-to-market insights.
+As a PM evaluating a new market entry for an AI receptionist product, I needed to answer a fundamental question: **why do customers leave existing answering services, and what would it take to win them over?**
+
+Traditional approaches — commissioning a research agency, running surveys, buying analyst reports — are slow, expensive, and often too high-level to drive specific product decisions. Instead, I went directly to the customers' own words: hundreds of reviews on Reddit and Trustpilot where people describe exactly what went wrong, how much they paid, and where they went next.
+
+I used AI (Claude) to turn this unstructured text into a rigorous, quantified analysis — applying the same dual-coding methodology used in academic qualitative research, but at a fraction of the time and cost.
 
 ## How I Did It
+
+The research followed a five-step pipeline, designed so that each step is reproducible and auditable. Every script, dataset, and intermediate output is in this repo.
 
 ### 1. Data Collection
 I built scrapers to pull reviews from two sources with very different signals:
@@ -83,10 +89,21 @@ Charts, tables, and the final narrative document are all generated programmatica
     └── analysis_*.py             Analysis scripts
 ```
 
+## Why This Approach
+
+As a PM, I don't have a research team or a six-week timeline. But I do have access to AI tools and the ability to write code. This project demonstrates that a single PM can:
+
+- **Collect primary data** at scale from public sources (409 reviews, 9 competitors)
+- **Apply academic-grade methodology** (dual coding, inter-rater reliability) using AI instead of human research assistants
+- **Produce quantified, defensible insights** — not vibes, not summaries, but weighted analysis with confidence levels
+- **Generate publication-ready deliverables** (strategy deck, narrative report, categorized database) programmatically
+
+The total cost was essentially zero (public data + AI API calls). The output is comparable to what a research agency would charge five figures for.
+
 ## Tools Used
 
+- **Claude Code** (Anthropic) — AI-assisted coding, review classification, dual coding, report writing
 - **Python** — data collection, analysis, and report generation
-- **Claude** (Anthropic) — review classification, dual coding, pain point extraction
 - **matplotlib** — all charts generated programmatically
 - **python-docx** — Word document generation
 - **Reddit API / Arctic Shift** — Reddit data collection
