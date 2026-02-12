@@ -69,17 +69,18 @@ The 72% legal vertical finding comes with a caveat I flagged in the report: Redd
 
 ![Where customers go when they leave](data/charts/switching_sankey.png)
 
-## What I'd Recommend
+## Why Use AI for This
 
-The research translated into three specific recommendations in the strategy deck:
+This project would normally take a research team several weeks: scraping, reading hundreds of reviews, building a coding taxonomy, training coders, adjudicating disagreements, running analysis, and writing deliverables. I did it as a solo PM.
 
-1. **Build script adherence + flat-rate pricing first.** These two features address 76% of churn. Configurable call scripts with branching logic (P0) and flat monthly billing with no per-minute charges (P0) are the minimum viable product.
+AI changed what was practical at each step:
 
-2. **Target Ruby and Smith.ai churners with different messages.** Ruby customers need to hear "your calls handled right." Smith.ai customers need "transparent billing, cancel anytime." One-size-fits-all positioning won't work — the churn profiles are too different.
+- **Classification at scale.** Claude read 409 reviews and extracted structured fields (category, competitor, pain point, dollar amounts, quality score) from unstructured text. Doing this manually for 409 reviews would take days. AI did it in minutes.
+- **Dual coding without hiring coders.** The standard for qualitative research is two independent coders + inter-rater reliability. That normally means hiring and training two research assistants. I ran two independent LLM coders and got kappa = 0.91 — the same rigor, without the overhead.
+- **Iteration speed.** When I realized the initial 7-category taxonomy wasn't granular enough, I rebuilt it as an 11-category taxonomy and re-coded everything in an afternoon. With human coders, that's a week of retraining and re-coding.
+- **End-to-end pipeline.** Scraping, cleaning, classifying, analyzing, charting, and writing the report all flow from code. The analysis is reproducible — change the data, and everything downstream updates.
 
-3. **Price at $99–199/mo flat rate.** Undercuts legacy pricing ($235–$2,800/mo) by 50–90%, while sitting above AI-native competitors ($29–$99/mo) who haven't earned trust yet. The data shows customers don't leave because of price — they leave because of billing *model*. Flat rate solves that.
-
-The full strategy deck and deep dive report have the supporting detail — competitor-by-competitor vulnerability profiles, switching flow analysis, priority matrix for feature decisions, and GTM messaging by channel.
+The product strategy recommendations (what to build, who to target, how to price) are in the [strategy deck](Virtual%20Receptionist%20Churn%20Analysis.pdf) and [deep dive report](Deep%20Dive%20Report.pdf).
 
 ## Outputs
 
